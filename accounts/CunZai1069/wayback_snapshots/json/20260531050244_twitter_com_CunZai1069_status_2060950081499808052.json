@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2060724314413191560",
+    "created_at": "2026-05-31T05:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060950081499808052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752259037566218240",
+          "start": 0,
+          "username": "aru_ve_lut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060950081499808052",
+    "in_reply_to_user_id": "1752259037566218240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060948257082384724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aru_ve_lut 我趣，这里能碰到奶黄😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2060724314413191560",
+        "created_at": "2026-05-31T05:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060950081499808052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752259037566218240",
+              "start": 0,
+              "username": "aru_ve_lut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060950081499808052",
+        "in_reply_to_user_id": "1752259037566218240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060948257082384724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aru_ve_lut 我趣，这里能碰到奶黄😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752259037566218240",
+        "conversation_id": "2060724314413191560",
+        "created_at": "2026-05-31T04:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060948257082384724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060948257082384724",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060724314413191560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 奶黄有品！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai106999120",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai106999120",
+                "start": 0,
+                "url": "https://t.co/aFn5aJJGzp"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1177,
+          "like_count": 3478,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/aFn5aJJGzp",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T09:14:57.000Z",
+        "description": "atto/见晴miharu/081013/日常推/中文/En/日语学习中/intp-a/od/自残/休学/友跨/希望和大家交朋友/超级社恐/很温良的小女孩/欢迎互fo 直fo就是喜欢你",
+        "id": "1752259037566218240",
+        "name": "见晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045456632256290816/rzugZvz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 362,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 393
+        },
+        "username": "aru_ve_lut",
+        "verified": false
+      }
+    ]
+  }
+}

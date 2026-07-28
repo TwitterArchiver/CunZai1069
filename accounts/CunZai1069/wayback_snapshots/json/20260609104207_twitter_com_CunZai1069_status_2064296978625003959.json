@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2064239435160653905",
+    "created_at": "2026-06-09T10:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064296978625003959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1820681012118228992",
+          "start": 0,
+          "username": "g2BqmUX20Q86589"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064296978625003959",
+    "in_reply_to_user_id": "1820681012118228992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064268150674506015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g2BqmUX20Q86589 感谢喵(ᗜ v ᗜ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2064239435160653905",
+        "created_at": "2026-06-09T10:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064296978625003959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1820681012118228992",
+              "start": 0,
+              "username": "g2BqmUX20Q86589"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064296978625003959",
+        "in_reply_to_user_id": "1820681012118228992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064268150674506015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g2BqmUX20Q86589 感谢喵(ᗜ v ᗜ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820681012118228992",
+        "conversation_id": "2064239435160653905",
+        "created_at": "2026-06-09T08:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064268150674506015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064268150674506015",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064239435160653905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 有些时候，如果习惯的内容被打破，焦虑是很正常的。就像日常里面，大家都想变得独特，但又会担忧“这样不合群”。我觉得存存老师自私一些也是好的，期待下次或者未来某一天，发现你的推文内有上开心或者幸福的模样。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1214,
+          "like_count": 3801,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 1121
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T04:39:46.000Z",
+        "description": "",
+        "id": "1820681012118228992",
+        "name": "医疗喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919386921052372992/IG2mSQGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 64,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "g2BqmUX20Q86589",
+        "verified": false
+      }
+    ]
+  }
+}

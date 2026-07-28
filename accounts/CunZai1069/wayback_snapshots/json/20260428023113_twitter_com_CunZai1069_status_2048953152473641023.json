@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2048951655488684379",
+    "created_at": "2026-04-28T02:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048953152473641023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749719755119071232",
+          "start": 0,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048953152473641023",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048951655488684379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_shang32900 摸摸老师꜀(˘꒳˘ ꜀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2048951655488684379",
+        "created_at": "2026-04-28T02:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048953152473641023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048953152473641023",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048951655488684379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 摸摸老师꜀(˘꒳˘ ꜀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2048951655488684379",
+        "created_at": "2026-04-28T02:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048951655488684379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048951655488684379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经、比起崩溃更像是绷不住了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的。中抑重焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 76,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 53,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 109,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 86,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/https://ngl.li…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/At6so2m75V"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2048726488716017993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 245,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/At6so2m75V",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.kuainiao.online/#/register?code=sbLZe3k7",
+                "start": 0,
+                "url": "https://t.co/zDqHJOTESS"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "location": "自用稳定梯子👇🏻",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 796,
+          "like_count": 47426,
+          "listed_count": 4,
+          "media_count": 795,
+          "tweet_count": 11731
+        },
+        "url": "https://t.co/zDqHJOTESS",
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

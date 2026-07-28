@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066111060625805312"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2065941442300977183",
+    "created_at": "2026-06-14T10:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066111071010849048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841093178268794881",
+          "start": 0,
+          "username": "idle_beaver"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gbsbr768Re",
+          "end": 36,
+          "expanded_url": "https://x.com/CunZai1069/status/2066111071010849048/photo/1",
+          "media_key": "3_2066111060625805312",
+          "start": 13,
+          "url": "https://t.co/Gbsbr768Re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066111071010849048",
+    "in_reply_to_user_id": "1841093178268794881",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066047024596988069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idle_beaver https://t.co/Gbsbr768Re"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2066111060625805312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxNEBsbUAAX9oa.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066111060625805312"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2065941442300977183",
+        "created_at": "2026-06-14T10:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066111071010849048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841093178268794881",
+              "start": 0,
+              "username": "idle_beaver"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gbsbr768Re",
+              "end": 36,
+              "expanded_url": "https://x.com/CunZai1069/status/2066111071010849048/photo/1",
+              "media_key": "3_2066111060625805312",
+              "start": 13,
+              "url": "https://t.co/Gbsbr768Re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066111071010849048",
+        "in_reply_to_user_id": "1841093178268794881",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066047024596988069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idle_beaver https://t.co/Gbsbr768Re"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841093178268794881",
+        "conversation_id": "2065941442300977183",
+        "created_at": "2026-06-14T06:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066047024596988069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066047024596988069",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065941442300977183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 求原图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1262,
+          "like_count": 4148,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 1196
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:30:02.000Z",
+        "description": "Beautiful mind.",
+        "id": "1841093178268794881",
+        "location": "now here",
+        "name": "Chromium Chloroiridite",
+        "pinned_tweet_id": "2057793606673654242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065945842608156672/jsV_eAqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 14,
+          "like_count": 6965,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 139
+        },
+        "username": "idle_beaver",
+        "verified": false
+      }
+    ]
+  }
+}

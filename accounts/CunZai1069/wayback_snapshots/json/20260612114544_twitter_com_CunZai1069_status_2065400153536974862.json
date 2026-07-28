@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2065282931367546915",
+    "created_at": "2026-06-12T11:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065400153536974862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059063101648179200",
+          "start": 0,
+          "username": "minrijirp76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065400153536974862",
+    "in_reply_to_user_id": "2059063101648179200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065376720409284960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minrijirp76 寿司🤤\n不耗，导弹来袭😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 451,
+        "media_key": "3_2065376711789965312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmxLTGa8AANUoj.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2065282931367546915",
+        "created_at": "2026-06-12T11:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065400153536974862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059063101648179200",
+              "start": 0,
+              "username": "minrijirp76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065400153536974862",
+        "in_reply_to_user_id": "2059063101648179200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065376720409284960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minrijirp76 寿司🤤\n不耗，导弹来袭😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065376711789965312"
+          ]
+        },
+        "author_id": "2059063101648179200",
+        "conversation_id": "2065282931367546915",
+        "created_at": "2026-06-12T10:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065376720409284960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/teKe5jNBZf",
+              "end": 44,
+              "expanded_url": "https://x.com/minrijirp76/status/2065376720409284960/photo/1",
+              "media_key": "3_2065376711789965312",
+              "start": 21,
+              "url": "https://t.co/teKe5jNBZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065376720409284960",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065282931367546915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 那我的很无厘头了 https://t.co/teKe5jNBZf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1249,
+          "like_count": 4015,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1175
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T00:05:17.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2059063101648179200",
+        "name": "铭日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059112585317003264/0X7T1OoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 67,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 219
+        },
+        "username": "minrijirp76",
+        "verified": false
+      }
+    ]
+  }
+}

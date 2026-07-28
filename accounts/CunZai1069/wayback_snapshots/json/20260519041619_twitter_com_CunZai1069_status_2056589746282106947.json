@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2056589736853352448"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2056378076456776159",
+    "created_at": "2026-05-19T04:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056589746282106947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1283232471849381888",
+          "start": 0,
+          "username": "fi4AmzarbHLc5Pv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TA0n5AyJrc",
+          "end": 40,
+          "expanded_url": "https://x.com/CunZai1069/status/2056589746282106947/photo/1",
+          "media_key": "16_2056589736853352448",
+          "start": 17,
+          "url": "https://t.co/TA0n5AyJrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056589746282106947",
+    "in_reply_to_user_id": "1283232471849381888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056588244268273763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fi4AmzarbHLc5Pv https://t.co/TA0n5AyJrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2056589736853352448",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIp5eCnbsAADeek.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIp5eCnbsAADeek.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 500,
+        "media_key": "3_2056588241651073024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIp4HAjbgAAHbvI.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2056589736853352448"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2056378076456776159",
+        "created_at": "2026-05-19T04:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056589746282106947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1283232471849381888",
+              "start": 0,
+              "username": "fi4AmzarbHLc5Pv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TA0n5AyJrc",
+              "end": 40,
+              "expanded_url": "https://x.com/CunZai1069/status/2056589746282106947/photo/1",
+              "media_key": "16_2056589736853352448",
+              "start": 17,
+              "url": "https://t.co/TA0n5AyJrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056589746282106947",
+        "in_reply_to_user_id": "1283232471849381888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056588244268273763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fi4AmzarbHLc5Pv https://t.co/TA0n5AyJrc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056588241651073024"
+          ]
+        },
+        "author_id": "1283232471849381888",
+        "conversation_id": "2056378076456776159",
+        "created_at": "2026-05-19T04:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056588244268273763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYZF8V7RUk",
+              "end": 41,
+              "expanded_url": "https://x.com/fi4AmzarbHLc5Pv/status/2056588244268273763/photo/1",
+              "media_key": "3_2056588241651073024",
+              "start": 18,
+              "url": "https://t.co/UYZF8V7RUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056588244268273763",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056378076456776159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 不能这样吗 https://t.co/UYZF8V7RUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 990,
+          "like_count": 2304,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-15T02:50:49.000Z",
+        "description": "Heal in silence. Shine in public.",
+        "id": "1283232471849381888",
+        "name": "15YOweeb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715770944911003648/OJ3U2DQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 119,
+          "like_count": 16421,
+          "listed_count": 3,
+          "media_count": 845,
+          "tweet_count": 3143
+        },
+        "username": "fi4AmzarbHLc5Pv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2069303733461393911",
+    "created_at": "2026-06-24T00:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T01:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069585036081512776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1618314905475743749",
+          "start": 0,
+          "username": "CuOqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069585036081512776",
+    "in_reply_to_user_id": "1618314905475743749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069455071273009324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuOqwq 还好喵，只想睡觉()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2069303733461393911",
+        "created_at": "2026-06-24T00:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069585036081512776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1618314905475743749",
+              "start": 0,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069585036081512776",
+        "in_reply_to_user_id": "1618314905475743749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069455071273009324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuOqwq 还好喵，只想睡觉()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618314905475743749",
+        "conversation_id": "2069303733461393911",
+        "created_at": "2026-06-23T16:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069455071273009324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069455071273009324",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069303733461393911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 还好吗存存？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1275,
+          "like_count": 4331,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1246
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:28:45.000Z",
+        "description": "叫我CuO就好\n愿每位来访者能够幸福，平安，健康，心想事成\n请记住，You Are Not Alone。",
+        "id": "1618314905475743749",
+        "location": "重庆",
+        "name": "CuO",
+        "pinned_tweet_id": "2053190325477478619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053188110960431104/eVMUJpHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 142,
+          "like_count": 4283,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "CuOqwq",
+        "verified": false
+      }
+    ]
+  }
+}

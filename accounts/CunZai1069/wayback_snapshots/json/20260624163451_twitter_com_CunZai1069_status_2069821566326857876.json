@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2069736257022783809",
+    "created_at": "2026-06-24T16:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069821566326857876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775149090881560580",
+          "start": 0,
+          "username": "LemonCandy_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069821566326857876",
+    "in_reply_to_user_id": "1775149090881560580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069736257022783809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonCandy_OvO 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069736252341911552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkuJ9OWgAApONn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2069736257022783809",
+        "created_at": "2026-06-24T16:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069821566326857876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775149090881560580",
+              "start": 0,
+              "username": "LemonCandy_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069821566326857876",
+        "in_reply_to_user_id": "1775149090881560580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069736257022783809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonCandy_OvO 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069736252341911552"
+          ]
+        },
+        "author_id": "1775149090881560580",
+        "conversation_id": "2069736257022783809",
+        "created_at": "2026-06-24T10:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069736257022783809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reF1nFvWjS",
+              "end": 55,
+              "expanded_url": "https://x.com/LemonCandy_OvO/status/2069736257022783809/photo/1",
+              "media_key": "3_2069736252341911552",
+              "start": 32,
+              "url": "https://t.co/reF1nFvWjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069736257022783809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1263,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了?!?\n不得不说，这样起号竟然这么快，感谢支持🙏🏻 https://t.co/reF1nFvWjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1280,
+          "like_count": 4340,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1251
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T13:12:09.000Z",
+        "description": "09年/无业/无证含糖mtf/身高180/🚪30(同类免费)/pvz/mc/术力口/JK制服/喵斯，浮木已逝 qq:2198461644(需要过门槛) 老保们最严厉的母亲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2027182697",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/2027182697",
+                "start": 0,
+                "url": "https://t.co/0qAMIXgYtl"
+              }
+            ]
+          }
+        },
+        "id": "1775149090881560580",
+        "location": "暗影动力制造有限公司",
+        "name": "柠檬味软糖_XYN喵🏳️‍⚧️🍥🍬🍭🎀",
+        "pinned_tweet_id": "2058697571195908279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015393907874353152/OSzjOmqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 447,
+          "like_count": 410,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/0qAMIXgYtl",
+        "username": "LemonCandy_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

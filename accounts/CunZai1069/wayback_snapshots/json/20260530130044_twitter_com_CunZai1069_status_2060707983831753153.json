@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060707975317327872",
+        "3_2060707975497674752",
+        "3_2060707976076509184"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2060707983831753153",
+    "created_at": "2026-05-30T13:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060707983831753153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kk3yawZWO7",
+          "end": 108,
+          "expanded_url": "https://x.com/CunZai1069/status/2060707983831753153/photo/1",
+          "media_key": "3_2060707975317327872",
+          "start": 85,
+          "url": "https://t.co/kk3yawZWO7"
+        },
+        {
+          "display_url": "pic.x.com/kk3yawZWO7",
+          "end": 108,
+          "expanded_url": "https://x.com/CunZai1069/status/2060707983831753153/photo/1",
+          "media_key": "3_2060707975497674752",
+          "start": 85,
+          "url": "https://t.co/kk3yawZWO7"
+        },
+        {
+          "display_url": "pic.x.com/kk3yawZWO7",
+          "end": 108,
+          "expanded_url": "https://x.com/CunZai1069/status/2060707983831753153/photo/1",
+          "media_key": "3_2060707976076509184",
+          "start": 85,
+          "url": "https://t.co/kk3yawZWO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060707983831753153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1. 我也喜欢你喔，抱抱，来个赛博贴贴🥰\n2. 差点以为是ngl给我发的)。不过这样的问题我也不知道喵😭。\n3. 我也喜欢你喔，我会喜欢任何一个喜欢我的人。感谢祝福喵🫡 https://t.co/kk3yawZWO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2060707975317327872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJka_EaakAA-o5U.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2060707975497674752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJka_FFacAALgwS.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2060707976076509184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJka_HPawAAPKEx.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060707975317327872",
+            "3_2060707975497674752",
+            "3_2060707976076509184"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2060707983831753153",
+        "created_at": "2026-05-30T13:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060707983831753153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kk3yawZWO7",
+              "end": 108,
+              "expanded_url": "https://x.com/CunZai1069/status/2060707983831753153/photo/1",
+              "media_key": "3_2060707975317327872",
+              "start": 85,
+              "url": "https://t.co/kk3yawZWO7"
+            },
+            {
+              "display_url": "pic.x.com/kk3yawZWO7",
+              "end": 108,
+              "expanded_url": "https://x.com/CunZai1069/status/2060707983831753153/photo/1",
+              "media_key": "3_2060707975497674752",
+              "start": 85,
+              "url": "https://t.co/kk3yawZWO7"
+            },
+            {
+              "display_url": "pic.x.com/kk3yawZWO7",
+              "end": 108,
+              "expanded_url": "https://x.com/CunZai1069/status/2060707983831753153/photo/1",
+              "media_key": "3_2060707976076509184",
+              "start": 85,
+              "url": "https://t.co/kk3yawZWO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060707983831753153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1. 我也喜欢你喔，抱抱，来个赛博贴贴🥰\n2. 差点以为是ngl给我发的)。不过这样的问题我也不知道喵😭。\n3. 我也喜欢你喔，我会喜欢任何一个喜欢我的人。感谢祝福喵🫡 https://t.co/kk3yawZWO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai106999120",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai106999120",
+                "start": 0,
+                "url": "https://t.co/aFn5aJJGzp"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 1174,
+          "like_count": 3447,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/aFn5aJJGzp",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

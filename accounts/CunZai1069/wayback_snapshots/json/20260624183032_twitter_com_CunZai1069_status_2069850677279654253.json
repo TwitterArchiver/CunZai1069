@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2069850677279654253",
+    "created_at": "2026-06-24T18:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069850677279654253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052866997155971072",
+          "start": 3,
+          "username": "FreeSerica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069850677279654253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069832748618166352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreeSerica: 和我谈恋爱的10个好处❤️\n1.我是m/sub/4i，和我谈恋爱，我可以当你的狗，可以接受孩子和你姓、我和你姓、你给我起名也可以，我就是你的小狗，汪汪汪\n2.我缺爱接受不了欺骗和冷暴力只要你愿意我可以一直陪着你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2069850677279654253",
+        "created_at": "2026-06-24T18:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069850677279654253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052866997155971072",
+              "start": 3,
+              "username": "FreeSerica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069850677279654253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069832748618166352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreeSerica: 和我谈恋爱的10个好处❤️\n1.我是m/sub/4i，和我谈恋爱，我可以当你的狗，可以接受孩子和你姓、我和你姓、你给我起名也可以，我就是你的小狗，汪汪汪\n2.我缺爱接受不了欺骗和冷暴力只要你愿意我可以一直陪着你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052866997155971072",
+        "conversation_id": "2069832748618166352",
+        "created_at": "2026-06-24T17:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069832748618166352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069832748618166352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和我谈恋爱的10个好处❤️\n1.我是m/sub/4i，和我谈恋爱，我可以当你的狗，可以接受孩子和你姓、我和你姓、你给我起名也可以，我就是你的小狗，汪汪汪\n2.我缺爱接受不了欺骗和冷暴力只要你愿意我可以一直陪着你\n3.我很性压抑，你想怎么玩？我都陪你！角色扮演、羞耻play……什么玩法、什么要求、我都接受！不熟悉的可以慢慢来，慢慢磨合\n4.我非常非常缺爱，性是爱的调味剂，柏拉图式的恋爱也可以，真心只想要一个相爱的人\n5.老婆，你只要不说分手，我就永远不离开你\n6.最惠国待遇，之前对别人做过的事情都会对你再做一遍，对你永远是最好的，只会对你一个人最好\n7.我虽然很性压抑，非常非常想做爱sex，但是我非常圣洁，守身如玉，洁身自好!从小到大坚持不乱搞、不约炮、不嫖娼、不滥情，我真的是好男孩\n8.我无下限，可以自定义DIY开发调教\n9.我缺爱，在一起之后，我的就是你的，你的还是你的，保证每一句话都是真心话，没有半句假话，你的事情永远是第一位\n10.妈妈我求求你了，汪汪汪😭😭😭😭😭😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和我谈恋爱的10个好处❤️\n1.我是m/sub/4i，和我谈恋爱，我可以当你的狗，可以接受孩子和你姓、我和你姓、你给我起名也可以，我就是你的小狗，汪汪汪\n2.我缺爱接受不了欺骗和冷暴力只要你愿意我可以一直陪着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1281,
+          "like_count": 4342,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T21:44:13.000Z",
+        "description": "自由之精神，独立之人格！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freeserica",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freeserica",
+                "start": 0,
+                "url": "https://t.co/edjWvCL0oI"
+              }
+            ]
+          }
+        },
+        "id": "2052866997155971072",
+        "location": "Minato-ku, Tokyo",
+        "name": "𝒜𝓉𝒽ℯ𝓃𝒶 𝒯𝒽ℯ𝓂𝒾𝓈❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761398310400000/3gCQkDnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 556,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/edjWvCL0oI",
+        "username": "FreeSerica",
+        "verified": true
+      }
+    ]
+  }
+}

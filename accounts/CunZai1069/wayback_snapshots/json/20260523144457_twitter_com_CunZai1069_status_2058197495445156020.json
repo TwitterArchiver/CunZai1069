@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2058189002386374894",
+    "created_at": "2026-05-23T14:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058197495445156020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812048156290646016",
+          "start": 0,
+          "username": "CanWuObject"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058197495445156020",
+    "in_reply_to_user_id": "1812048156290646016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058196392276037852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CanWuObject 只是趁现在比较闲，想做些事，之后忙起来还不知道能不能做到喵🥲\n也是自己一厢情愿吧，我是比较担心我那个朋友，他状态也经常不是很好。\n所以真的不是视奸吗喵（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2058189002386374894",
+        "created_at": "2026-05-23T14:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058197495445156020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812048156290646016",
+              "start": 0,
+              "username": "CanWuObject"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058197495445156020",
+        "in_reply_to_user_id": "1812048156290646016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058196392276037852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CanWuObject 只是趁现在比较闲，想做些事，之后忙起来还不知道能不能做到喵🥲\n也是自己一厢情愿吧，我是比较担心我那个朋友，他状态也经常不是很好。\n所以真的不是视奸吗喵（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812048156290646016",
+        "conversation_id": "2058189002386374894",
+        "created_at": "2026-05-23T14:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058196392276037852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058196392276037852",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058194198873174424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 嗯嗯(´･ω･`)，存存也要好好的，别给自己太大压力…，连“革命”的本钱都是自己的身体呢，更何况这样……即便如此你也坚持试图帮助别人，我也看在眼里（不是视奸喵）真的很善良很好心…所以不用难受..你做的已经很好了(///▽///)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 1076,
+          "like_count": 2960,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T08:55:41.000Z",
+        "description": "一个普通的男孩子，友善，你给我点赞我会多倍奉还（除非我在忙）我没什么文化…也没情商，不过我也可以陪你…只要你不嫌我烦 TWT\n互fo来～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canwu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canwu",
+                "start": 0,
+                "url": "https://t.co/5xbdPAaF5Y"
+              }
+            ]
+          }
+        },
+        "id": "1812048156290646016",
+        "location": "回忆",
+        "name": "残物",
+        "pinned_tweet_id": "2055717294366748740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057687854747430912/krbGR9mO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 192,
+          "like_count": 1364,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/5xbdPAaF5Y",
+        "username": "CanWuObject",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2062876557002289548",
+    "created_at": "2026-06-06T00:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T01:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063059074548433105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880182136399097859",
+          "start": 0,
+          "username": "irawzimlor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063059074548433105",
+    "in_reply_to_user_id": "1880182136399097859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063050414162125312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irawzimlor 摸摸头( ´･ω･)ﾉ(._.`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_2063050411741999104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFta0Ga8AAIYHx.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2062876557002289548",
+        "created_at": "2026-06-06T00:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063059074548433105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880182136399097859",
+              "start": 0,
+              "username": "irawzimlor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063059074548433105",
+        "in_reply_to_user_id": "1880182136399097859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063050414162125312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irawzimlor 摸摸头( ´･ω･)ﾉ(._.`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063050411741999104"
+          ]
+        },
+        "author_id": "1880182136399097859",
+        "conversation_id": "2062876557002289548",
+        "created_at": "2026-06-06T00:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063050414162125312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNDDaW7k0g",
+              "end": 59,
+              "expanded_url": "https://x.com/irawzimlor/status/2063050414162125312/photo/1",
+              "media_key": "3_2063050411741999104",
+              "start": 36,
+              "url": "https://t.co/FNDDaW7k0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063050414162125312",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062876557002289548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 抱抱喵🥺如果存存老师不介意的话可以摸摸她的头💙 https://t.co/FNDDaW7k0g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1192,
+          "like_count": 3683,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1096
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T09:16:22.000Z",
+        "description": "(๓´˘`๓)",
+        "id": "1880182136399097859",
+        "name": "Irawzimlor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055850090980618240/Jes_0Y45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 781,
+          "like_count": 7053,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 105
+        },
+        "username": "irawzimlor",
+        "verified": false
+      }
+    ]
+  }
+}

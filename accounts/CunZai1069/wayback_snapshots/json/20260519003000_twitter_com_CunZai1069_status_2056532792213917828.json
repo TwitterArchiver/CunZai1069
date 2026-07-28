@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2056356159800676851",
+    "created_at": "2026-05-19T00:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056532792213917828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1477379836956061696",
+          "start": 0,
+          "username": "kizksakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056532792213917828",
+    "in_reply_to_user_id": "1477379836956061696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056415098634158311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kizksakura 抑郁症是脑部器质性病变，患者的社会功能是受限的，不能指望他能忙起来，也不能指望忙起来能治愈抑郁😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-19T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056532792213917828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1477379836956061696",
+              "start": 0,
+              "username": "kizksakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056532792213917828",
+        "in_reply_to_user_id": "1477379836956061696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056415098634158311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kizksakura 抑郁症是脑部器质性病变，患者的社会功能是受限的，不能指望他能忙起来，也不能指望忙起来能治愈抑郁😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477379836956061696",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-18T16:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056415098634158311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056415098634158311",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056356159800676851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 只能说看到了表象，抑郁症大多有执行力问题导致看起来很闲，实际上无时无刻都在脑子里干架。\n忙着的抑郁症要么是双向要么还没到重度症状发作\n只能说是歪理，不是闲=＞抑郁，而是抑郁=＞干不了事情=＞看起来闲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 981,
+          "like_count": 2254,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T20:43:20.000Z",
+        "description": "Weeb",
+        "id": "1477379836956061696",
+        "name": "Kiana Kaslana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477379940563800064/raHZtmE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 126,
+          "like_count": 2802,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 155
+        },
+        "username": "kizksakura",
+        "verified": false
+      }
+    ]
+  }
+}

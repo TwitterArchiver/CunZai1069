@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2071440933883924558",
+    "created_at": "2026-06-30T15:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071978823810433093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733293312940113920",
+          "start": 0,
+          "username": "IR_alpha0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071978823810433093",
+    "in_reply_to_user_id": "1733293312940113920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071962932397899799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IR_alpha0 我也能看到，要说功过相抵也大差不差。但是我真的生不出一点感情来，愧疚和亏欠很多来自于道德约束和法律约束。我只是想离所有人都远远的，不想生出一点爱的念头。之前我也说我失去爱人的能力了，很大程度来源于这个()\n时间已经很难磨平沟壑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2071440933883924558",
+        "created_at": "2026-06-30T15:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071978823810433093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733293312940113920",
+              "start": 0,
+              "username": "IR_alpha0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071978823810433093",
+        "in_reply_to_user_id": "1733293312940113920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071962932397899799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IR_alpha0 我也能看到，要说功过相抵也大差不差。但是我真的生不出一点感情来，愧疚和亏欠很多来自于道德约束和法律约束。我只是想离所有人都远远的，不想生出一点爱的念头。之前我也说我失去爱人的能力了，很大程度来源于这个()\n时间已经很难磨平沟壑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733293312940113920",
+        "conversation_id": "2071440933883924558",
+        "created_at": "2026-06-30T14:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071962932397899799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071962932397899799",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071440933883924558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 我倒是能看见我家里人给我拉扯大有多不容易，但是他们为了赚钱忽略的东西也弥补不了太多…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 1296,
+          "like_count": 4433,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 1274
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T01:11:52.000Z",
+        "description": "",
+        "id": "1733293312940113920",
+        "name": "IR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972105896517140480/SvSTjt_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "IR_alpha0",
+        "verified": false
+      }
+    ]
+  }
+}

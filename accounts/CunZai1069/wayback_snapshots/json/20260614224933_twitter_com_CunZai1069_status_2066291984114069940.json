@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066291975666724864"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2066283464798916848",
+    "created_at": "2026-06-14T22:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066291984114069940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916113741328093187",
+          "start": 0,
+          "username": "0nemoresec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i7H1lTrwmS",
+          "end": 35,
+          "expanded_url": "https://x.com/CunZai1069/status/2066291984114069940/photo/1",
+          "media_key": "3_2066291975666724864",
+          "start": 12,
+          "url": "https://t.co/i7H1lTrwmS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066291984114069940",
+    "in_reply_to_user_id": "1916113741328093187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066287356303511638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoresec https://t.co/i7H1lTrwmS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2066291975666724864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzxmqva8AAxZ97.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066291975666724864"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2066283464798916848",
+        "created_at": "2026-06-14T22:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066291984114069940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916113741328093187",
+              "start": 0,
+              "username": "0nemoresec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7H1lTrwmS",
+              "end": 35,
+              "expanded_url": "https://x.com/CunZai1069/status/2066291984114069940/photo/1",
+              "media_key": "3_2066291975666724864",
+              "start": 12,
+              "url": "https://t.co/i7H1lTrwmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066291984114069940",
+        "in_reply_to_user_id": "1916113741328093187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066287356303511638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoresec https://t.co/i7H1lTrwmS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916113741328093187",
+        "conversation_id": "2066283464798916848",
+        "created_at": "2026-06-14T22:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066287356303511638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066287356303511638",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066283464798916848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 我也想玩w求原图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1261,
+          "like_count": 4157,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1199
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "面点师\n匿名信/树洞 https://t.co/dAFmIPsROM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0nemoresec",
+                "end": 34,
+                "expanded_url": "https://ngl.link/0nemoresec",
+                "start": 11,
+                "url": "https://t.co/dAFmIPsROM"
+              }
+            ]
+          }
+        },
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "pinned_tweet_id": "2055873293044043893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212015276232704/wKzUSuMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 146,
+          "like_count": 2670,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1107
+        },
+        "username": "0nemoresec",
+        "verified": false
+      }
+    ]
+  }
+}

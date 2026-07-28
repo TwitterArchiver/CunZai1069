@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2056356159800676851",
+    "created_at": "2026-05-19T00:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056528142005916084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1837404073076969476",
+          "start": 0,
+          "username": "donglin3800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056528142005916084",
+    "in_reply_to_user_id": "1837404073076969476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056438487675527310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donglin3800 是的，抑郁症是生理性的病变，而非单纯情绪问题，需要持续的药物辅助和调整治疗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-19T00:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056528142005916084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1837404073076969476",
+              "start": 0,
+              "username": "donglin3800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056528142005916084",
+        "in_reply_to_user_id": "1837404073076969476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056438487675527310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donglin3800 是的，抑郁症是生理性的病变，而非单纯情绪问题，需要持续的药物辅助和调整治疗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837404073076969476",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-18T18:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056438487675527310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056438487675527310",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056356159800676851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 抑郁没那么简单！忙完之后，尤其独处的时候，还是会容易陷入抑郁的。这是生来就带的，或者是生长环境给影响的，尤其生来就带着的，除非自己某天真的都能放下，跟自己和解太难，很多人一生不开心，有些人半路就放弃生命，往往不被家庭和社会接纳，他们不是无病呻吟。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 980,
+          "like_count": 2237,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T08:11:04.000Z",
+        "description": "用易经读懂世界｜六爻·八字·梅花易数\n长视频 👉 https://t.co/MXzYBNJBY0\n短视频·异事志怪 👉 https://t.co/gD3w38ZnDV@人间异事科\n每期新内容第一时间在此同步",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@YuanLinXuan",
+                "end": 48,
+                "expanded_url": "http://youtube.com/@YuanLinXuan",
+                "start": 25,
+                "url": "https://t.co/MXzYBNJBY0"
+              },
+              {
+                "display_url": "youtube.com",
+                "end": 83,
+                "expanded_url": "http://youtube.com/",
+                "start": 60,
+                "url": "https://t.co/gD3w38ZnDV"
+              }
+            ]
+          }
+        },
+        "id": "1837404073076969476",
+        "name": "渊林轩 YuanLinXuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056186247253553152/aHYYJUkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 274,
+          "like_count": 2675,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 169
+        },
+        "username": "donglin3800",
+        "verified": true
+      }
+    ]
+  }
+}

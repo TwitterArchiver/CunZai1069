@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2056356159800676851",
+    "created_at": "2026-05-19T03:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056581917269737572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976513156882235397",
+          "start": 0,
+          "username": "mikonikoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056581917269737572",
+    "in_reply_to_user_id": "1976513156882235397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056579136458809455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikonikoyo 是的喵，我画画的时候会平静很多。不过严重到一定程度恐怕会失去这样的行动能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-19T03:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056581917269737572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976513156882235397",
+              "start": 0,
+              "username": "mikonikoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056581917269737572",
+        "in_reply_to_user_id": "1976513156882235397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056579136458809455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikonikoyo 是的喵，我画画的时候会平静很多。不过严重到一定程度恐怕会失去这样的行动能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976513156882235397",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-19T03:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056579136458809455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056579136458809455",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056356159800676851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 丘吉尔也有抑郁症，他缓解的方式就是垒砖搭房子，所以忙起来且忙那种带给你正反馈的事情是有用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 987,
+          "like_count": 2287,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T05:00:43.000Z",
+        "description": "🌸肥臀小猫咪 |気軽にDMしてね～\n已婚有主｜无门🚪｜不约｜发照片只是欣赏自己的body｜评论私信请礼貌",
+        "id": "1976513156882235397",
+        "name": "mikoniko",
+        "pinned_tweet_id": "2056540031821754523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034911997142474756/dPIFj3cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 84,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 361
+        },
+        "username": "mikonikoyo",
+        "verified": true
+      }
+    ]
+  }
+}

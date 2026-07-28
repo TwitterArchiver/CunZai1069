@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2049144736456577046",
+    "created_at": "2026-04-28T15:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049144736456577046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2049141749407490485",
+          "start": 9,
+          "url": "https://t.co/sRhSBQj0Yb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049144736456577046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049141749407490485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转 大连旅顺口区 https://t.co/sRhSBQj0Yb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2049144736456577046",
+        "created_at": "2026-04-28T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049144736456577046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2049141749407490485",
+              "start": 9,
+              "url": "https://t.co/sRhSBQj0Yb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049144736456577046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049141749407490485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转 大连旅顺口区 https://t.co/sRhSBQj0Yb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049141749407490485",
+        "created_at": "2026-04-28T15:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049141749407490485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LibailuOne/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/LibailuOne/status/2049132894019551609",
+              "start": 23,
+              "url": "https://t.co/8poYILOYwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049141749407490485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049132894019551609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁认识谁认识！\n我靠还是我老乡🥺你不要有事呀 https://t.co/8poYILOYwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的。中抑重焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 76,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 53,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 109,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 86,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/https://ngl.li…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/At6so2m75V"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 318,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/At6so2m75V",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049141749407490485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 3399,
+          "like_count": 29463,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 7873
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

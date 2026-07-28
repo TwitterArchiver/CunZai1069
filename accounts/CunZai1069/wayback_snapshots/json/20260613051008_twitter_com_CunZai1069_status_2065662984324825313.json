@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065662971112775680",
+        "3_2065662970768805888"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065662984324825313",
+    "created_at": "2026-06-13T05:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065662984324825313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7AOokZKKgy",
+          "end": 68,
+          "expanded_url": "https://x.com/CunZai1069/status/2065662984324825313/photo/1",
+          "media_key": "3_2065662971112775680",
+          "start": 45,
+          "url": "https://t.co/7AOokZKKgy"
+        },
+        {
+          "display_url": "pic.x.com/7AOokZKKgy",
+          "end": 68,
+          "expanded_url": "https://x.com/CunZai1069/status/2065662984324825313/photo/1",
+          "media_key": "3_2065662970768805888",
+          "start": 45,
+          "url": "https://t.co/7AOokZKKgy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065662984324825313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也来()\nDay1 在歌名里带有颜色的歌\n「真っ白な雪」水瀨ましろ\n一首东方主题的曲子 https://t.co/7AOokZKKgy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_2065662971112775680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKq1hyLa4AAC_gn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 600,
+        "media_key": "3_2065662970768805888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKq1hw5aUAAWjJy.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065662971112775680",
+            "3_2065662970768805888"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065662984324825313",
+        "created_at": "2026-06-13T05:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065662984324825313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AOokZKKgy",
+              "end": 68,
+              "expanded_url": "https://x.com/CunZai1069/status/2065662984324825313/photo/1",
+              "media_key": "3_2065662971112775680",
+              "start": 45,
+              "url": "https://t.co/7AOokZKKgy"
+            },
+            {
+              "display_url": "pic.x.com/7AOokZKKgy",
+              "end": 68,
+              "expanded_url": "https://x.com/CunZai1069/status/2065662984324825313/photo/1",
+              "media_key": "3_2065662970768805888",
+              "start": 45,
+              "url": "https://t.co/7AOokZKKgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662984324825313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也来()\nDay1 在歌名里带有颜色的歌\n「真っ白な雪」水瀨ましろ\n一首东方主题的曲子 https://t.co/7AOokZKKgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1254,
+          "like_count": 4083,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 1187
+        },
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065941427117604864",
+        "3_2065941426811379712"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2065941442300977183",
+    "created_at": "2026-06-13T23:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T00:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065941442300977183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4tTdgCn8t",
+          "end": 164,
+          "expanded_url": "https://x.com/CunZai1069/status/2065941442300977183/photo/1",
+          "media_key": "3_2065941427117604864",
+          "start": 141,
+          "url": "https://t.co/x4tTdgCn8t"
+        },
+        {
+          "display_url": "pic.x.com/x4tTdgCn8t",
+          "end": 164,
+          "expanded_url": "https://x.com/CunZai1069/status/2065941442300977183/photo/1",
+          "media_key": "3_2065941426811379712",
+          "start": 141,
+          "url": "https://t.co/x4tTdgCn8t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065941442300977183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day2，在歌名里带有数字的歌\n「四海五洲」\nTOPKINGCREAM\n*\n未来被熔断在\n明亮的深夜里\n像一曲褪色的口号\n挥之不去\n*\n歌词基于姜文《阳光灿烂的日子》充斥着政治隐喻，“四海翻腾云水怒，五洲震荡风雷激”还是“四海之内皆兄弟，五洲震荡和为贵”。也许键政小伙会喜欢(?) https://t.co/x4tTdgCn8t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_2065941427117604864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuyyDobwAAR-6T.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2250,
+        "media_key": "3_2065941426811379712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuyyCfbIAA6VW6.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065941427117604864",
+            "3_2065941426811379712"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2065941442300977183",
+        "created_at": "2026-06-13T23:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065941442300977183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4tTdgCn8t",
+              "end": 164,
+              "expanded_url": "https://x.com/CunZai1069/status/2065941442300977183/photo/1",
+              "media_key": "3_2065941427117604864",
+              "start": 141,
+              "url": "https://t.co/x4tTdgCn8t"
+            },
+            {
+              "display_url": "pic.x.com/x4tTdgCn8t",
+              "end": 164,
+              "expanded_url": "https://x.com/CunZai1069/status/2065941442300977183/photo/1",
+              "media_key": "3_2065941426811379712",
+              "start": 141,
+              "url": "https://t.co/x4tTdgCn8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065941442300977183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day2，在歌名里带有数字的歌\n「四海五洲」\nTOPKINGCREAM\n*\n未来被熔断在\n明亮的深夜里\n像一曲褪色的口号\n挥之不去\n*\n歌词基于姜文《阳光灿烂的日子》充斥着政治隐喻，“四海翻腾云水怒，五洲震荡风雷激”还是“四海之内皆兄弟，五洲震荡和为贵”。也许键政小伙会喜欢(?) https://t.co/x4tTdgCn8t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1260,
+          "like_count": 4128,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1195
+        },
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

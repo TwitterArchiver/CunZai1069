@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2069850656157175985",
+    "created_at": "2026-06-24T18:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069850656157175985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052866997155971072",
+          "start": 3,
+          "username": "FreeSerica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069850656157175985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069826754869670338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreeSerica: -本人征婚启事：\n1.键政\n2.二次元\n3.老资历\n4.玩Galgame\n5.打3A大作/主机游戏\n6.润🇯🇵\n7. Not bot、AI；真实人类\n8.生理女性\n9.我真求求你了😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2069850656157175985",
+        "created_at": "2026-06-24T18:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069850656157175985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052866997155971072",
+              "start": 3,
+              "username": "FreeSerica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069850656157175985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069826754869670338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreeSerica: -本人征婚启事：\n1.键政\n2.二次元\n3.老资历\n4.玩Galgame\n5.打3A大作/主机游戏\n6.润🇯🇵\n7. Not bot、AI；真实人类\n8.生理女性\n9.我真求求你了😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052866997155971072",
+        "conversation_id": "2069826754869670338",
+        "created_at": "2026-06-24T16:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069826754869670338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069826754869670338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "-本人征婚启事：\n1.键政\n2.二次元\n3.老资历\n4.玩Galgame\n5.打3A大作/主机游戏\n6.润🇯🇵\n7. Not bot、AI；真实人类\n8.生理女性\n9.我真求求你了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1281,
+          "like_count": 4342,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T21:44:13.000Z",
+        "description": "自由之精神，独立之人格！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freeserica",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freeserica",
+                "start": 0,
+                "url": "https://t.co/edjWvCL0oI"
+              }
+            ]
+          }
+        },
+        "id": "2052866997155971072",
+        "location": "Minato-ku, Tokyo",
+        "name": "𝒜𝓉𝒽ℯ𝓃𝒶 𝒯𝒽ℯ𝓂𝒾𝓈❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761398310400000/3gCQkDnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 556,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/edjWvCL0oI",
+        "username": "FreeSerica",
+        "verified": true
+      }
+    ]
+  }
+}

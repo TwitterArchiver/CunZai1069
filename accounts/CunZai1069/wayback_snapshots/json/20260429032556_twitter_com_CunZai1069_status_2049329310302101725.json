@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2049328732339618241",
+    "created_at": "2026-04-29T03:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049329310302101725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049329310302101725",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049328732339618241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果感觉情绪长时间不对，一定去医院看一看哦，医生会给你专业的建议，我们都在你身边呢，不要害怕打扰到我，经历过痛苦才更理解你呢，要好好体验美好喔😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_2049328722847875072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCtnZlaQAAYp1r.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2049328732339618241",
+        "created_at": "2026-04-29T03:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049329310302101725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049329310302101725",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049328732339618241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果感觉情绪长时间不对，一定去医院看一看哦，医生会给你专业的建议，我们都在你身边呢，不要害怕打扰到我，经历过痛苦才更理解你呢，要好好体验美好喔😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049328722847875072"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2049328732339618241",
+        "created_at": "2026-04-29T03:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049328732339618241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yS2fyHTkzJ",
+              "end": 159,
+              "expanded_url": "https://x.com/CunZai1069/status/2049328732339618241/photo/1",
+              "media_key": "3_2049328722847875072",
+              "start": 136,
+              "url": "https://t.co/yS2fyHTkzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049328732339618241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝摸摸头 w\n你所感受到的都是客观存在的！精神疾病引发躯体化症状，就是很折磨人的，比如注意力无法集中，胸闷心慌手抖都是喔。并不是你变坏了，这是疾病！是可以治愈滴！\n千万不要轻易选择自杀喔，尝试先强制冷静20分钟，会好很多！不开心随时联系我，我是互联网彩虹垃圾桶desu https://t.co/yS2fyHTkzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的。中抑重焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 76,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 53,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 109,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 86,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2049266886844821694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 422,
+          "like_count": 1206,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

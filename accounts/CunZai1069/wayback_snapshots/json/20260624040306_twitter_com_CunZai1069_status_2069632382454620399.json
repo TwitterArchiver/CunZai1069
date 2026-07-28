@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2069627220558315721",
+    "created_at": "2026-06-24T04:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069632382454620399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876534446327050240",
+          "start": 0,
+          "username": "asahi_rin359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069632382454620399",
+    "in_reply_to_user_id": "1876534446327050240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069631527504470167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahi_rin359 都不是，我记得是海底捞特有的)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2069627220558315721",
+        "created_at": "2026-06-24T04:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069632382454620399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876534446327050240",
+              "start": 0,
+              "username": "asahi_rin359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069632382454620399",
+        "in_reply_to_user_id": "1876534446327050240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069631527504470167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahi_rin359 都不是，我记得是海底捞特有的)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876534446327050240",
+        "conversation_id": "2069627220558315721",
+        "created_at": "2026-06-24T03:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069631527504470167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069631527504470167",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069627220558315721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 蚝油或者酱油也有可能是醋。\n醋有巨大酸味，蚝油粘稠\n都不是就是酱油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1279,
+          "like_count": 4334,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T07:40:58.000Z",
+        "description": "追加パッケージはこちらで公開されます:@ChaoL331\n鉄道、スホーイ戦闘機が好きです\n日本語の学習においては、ご容赦ください",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "ChaoL331"
+              }
+            ]
+          }
+        },
+        "id": "1876534446327050240",
+        "location": "三途川の向こう、間山県渚前町三丁目",
+        "name": "朝日りん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966568233026371584/RNWJuEPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 495,
+          "like_count": 4006,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "asahi_rin359",
+        "verified": false
+      }
+    ]
+  }
+}

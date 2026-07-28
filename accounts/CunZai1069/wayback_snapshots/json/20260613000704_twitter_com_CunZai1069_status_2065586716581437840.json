@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2065445517698744369",
+    "created_at": "2026-06-13T00:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065586716581437840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880182136399097859",
+          "start": 0,
+          "username": "irawzimlor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065586716581437840",
+    "in_reply_to_user_id": "1880182136399097859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065570196996415590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irawzimlor 没事，群主也低技术力()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2065445517698744369",
+        "created_at": "2026-06-13T00:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065586716581437840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880182136399097859",
+              "start": 0,
+              "username": "irawzimlor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065586716581437840",
+        "in_reply_to_user_id": "1880182136399097859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065570196996415590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irawzimlor 没事，群主也低技术力()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880182136399097859",
+        "conversation_id": "2065445517698744369",
+        "created_at": "2026-06-12T23:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065570196996415590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065570196996415590",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065445517698744369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 我也会画画和编曲，但我技术力好低😭我进群后会拉群友们的后腿吗😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1252,
+          "like_count": 4058,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1186
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T09:16:22.000Z",
+        "description": "(๓´˘`๓)",
+        "id": "1880182136399097859",
+        "name": "Irawzimlor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055850090980618240/Jes_0Y45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 799,
+          "like_count": 7945,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 132
+        },
+        "username": "irawzimlor",
+        "verified": false
+      }
+    ]
+  }
+}

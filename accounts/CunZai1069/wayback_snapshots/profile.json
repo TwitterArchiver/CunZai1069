@@ -1,0 +1,29 @@
+{
+  "name": "存存之王",
+  "username": "@CunZai1069",
+  "bio": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://www.cun-zai.com但是目前还在搭建中……@Guanyiwlz7是给",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 97,
+        "start": 86,
+        "username": "Guanyiwlz7"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "cun-zai.com",
+        "end": 75,
+        "expanded_url": "https://www.cun-zai.com",
+        "start": 52,
+        "url": "https://t.co/jvcfxxDPos"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg"
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1539077833968197632"
+      ],
+      "media_source_tweet_id": [
+        "1539077840821698561"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2064146999520457213",
+    "created_at": "2026-06-09T00:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064146999520457213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4RUlpJCdU",
+          "end": 98,
+          "expanded_url": "https://x.com/UyukiChan_/status/1539077840821698561/photo/1",
+          "media_key": "3_1539077833968197632",
+          "start": 75,
+          "url": "https://t.co/t4RUlpJCdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064146999520457213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1198
+    },
+    "referenced_tweets": [
+      {
+        "id": "1539077840821698561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 别转推！别转推！别转推！！！\n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！\n咱正在破解这个诅咒！！不要转推！！！ https://t.co/t4RUlpJCdU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_1539077833968197632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FVvnIrdaIAAvcFR.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1539077833968197632"
+          ],
+          "media_source_tweet_id": [
+            "1539077840821698561"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2064146999520457213",
+        "created_at": "2026-06-09T00:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064146999520457213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4RUlpJCdU",
+              "end": 98,
+              "expanded_url": "https://x.com/UyukiChan_/status/1539077840821698561/photo/1",
+              "media_key": "3_1539077833968197632",
+              "start": 75,
+              "url": "https://t.co/t4RUlpJCdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064146999520457213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1539077840821698561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 别转推！别转推！别转推！！！\n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！\n咱正在破解这个诅咒！！不要转推！！！ https://t.co/t4RUlpJCdU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1539077833968197632"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "1539077840821698561",
+        "created_at": "2022-06-21T02:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2022-06-21T03:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1539077840821698561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4RUlpJCdU",
+              "end": 87,
+              "expanded_url": "https://x.com/UyukiChan_/status/1539077840821698561/photo/1",
+              "media_key": "3_1539077833968197632",
+              "start": 64,
+              "url": "https://t.co/t4RUlpJCdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1539077840821698561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 0,
+          "like_count": 1542,
+          "quote_count": 154,
+          "reply_count": 224,
+          "retweet_count": 1198
+        },
+        "reply_settings": "everyone",
+        "text": "别转推！别转推！别转推！！！\n你要是转推的话你就会不小心变得特别可爱！！！还会喵喵叫！！\n咱正在破解这个诅咒！！不要转推！！！ https://t.co/t4RUlpJCdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 1212,
+          "like_count": 3797,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 1118
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31150,
+          "following_count": 4374,
+          "like_count": 15455,
+          "listed_count": 32,
+          "media_count": 4731,
+          "tweet_count": 34652
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2065444955984892083",
+    "created_at": "2026-06-12T14:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065444955984892083"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065444955984892083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "群里来了个坦克，碾碎了我的一整天\n我还是设个条件吧，这家伙给我惊恐发作干出来了，又头疼一晚上。好友又不给加，骂又骂不了。\n进来说什么「我搜od群进来的」\n我 *中式粗口* 哪个字眼带od了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2065444955984892083",
+        "created_at": "2026-06-12T14:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065444955984892083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065444955984892083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群里来了个坦克，碾碎了我的一整天\n我还是设个条件吧，这家伙给我惊恐发作干出来了，又头疼一晚上。好友又不给加，骂又骂不了。\n进来说什么「我搜od群进来的」\n我 *中式粗口* 哪个字眼带od了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 1252,
+          "like_count": 4043,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1182
+        },
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

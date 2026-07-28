@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2058189002386374894",
+    "created_at": "2026-05-23T14:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058193681518297165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033529010819366912",
+          "start": 0,
+          "username": "Twildark16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058193681518297165",
+    "in_reply_to_user_id": "2033529010819366912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058193118261096687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Twildark16 唉，认识很多人都这样，共情能力都很强，这样的人反而更容易自杀。😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_2058193095200792576",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJArtx6a4AAZWOc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJArtx6a4AAZWOc.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2058189002386374894",
+        "created_at": "2026-05-23T14:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058193681518297165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033529010819366912",
+              "start": 0,
+              "username": "Twildark16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058193681518297165",
+        "in_reply_to_user_id": "2033529010819366912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058193118261096687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Twildark16 唉，认识很多人都这样，共情能力都很强，这样的人反而更容易自杀。😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058193095200792576"
+          ]
+        },
+        "author_id": "2033529010819366912",
+        "conversation_id": "2058189002386374894",
+        "created_at": "2026-05-23T14:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058193118261096687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMHayc4nXl",
+              "end": 83,
+              "expanded_url": "https://x.com/Twildark16/status/2058193118261096687/photo/1",
+              "media_key": "16_2058193095200792576",
+              "start": 60,
+              "url": "https://t.co/eMHayc4nXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058193118261096687",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058189002386374894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 共情能力很强真的两头犯难啊，一方面能够很好的理解他人，可另一方面他人的痛苦也会爬到自己身上来… https://t.co/eMHayc4nXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 1076,
+          "like_count": 2954,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T13:03:31.000Z",
+        "description": "逐渐看不清我的影踪",
+        "id": "2033529010819366912",
+        "location": "America",
+        "name": "Twildark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057036330224545792/wz-HNO4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 257,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Twildark16",
+        "verified": false
+      }
+    ]
+  }
+}

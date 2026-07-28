@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2055867325895901518",
+    "created_at": "2026-05-17T04:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055874097582948643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2053227236321599489",
+          "start": 0,
+          "username": "axhg7pe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055874097582948643",
+    "in_reply_to_user_id": "2053227236321599489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055872828000575629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axhg7pe 你已急哭，有什么侮辱性吗，偏娱乐性质的话到你眼里成了辱骂，这不敏感肌，你要是骂我能舒服点我也不是不让你骂。要是那四个字真的对你造成了侮辱，我也愿意跟你道歉。但是你的反应真的有点应激，我还是觉得很猎奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2055867325895901518",
+        "created_at": "2026-05-17T04:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055874097582948643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2053227236321599489",
+              "start": 0,
+              "username": "axhg7pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055874097582948643",
+        "in_reply_to_user_id": "2053227236321599489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055872828000575629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axhg7pe 你已急哭，有什么侮辱性吗，偏娱乐性质的话到你眼里成了辱骂，这不敏感肌，你要是骂我能舒服点我也不是不让你骂。要是那四个字真的对你造成了侮辱，我也愿意跟你道歉。但是你的反应真的有点应激，我还是觉得很猎奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053227236321599489",
+        "conversation_id": "2055867325895901518",
+        "created_at": "2026-05-17T04:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055872828000575629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055872828000575629",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055867325895901518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 装你妈的臭逼啊不是你先骂我的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 915,
+          "like_count": 1873,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T21:35:25.000Z",
+        "description": "",
+        "id": "2053227236321599489",
+        "name": "a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053998365583781888/dGkADv4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 61,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 164
+        },
+        "username": "axhg7pe",
+        "verified": false
+      }
+    ]
+  }
+}

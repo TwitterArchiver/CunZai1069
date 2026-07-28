@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042992249244667904"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2042992270199443701",
+    "created_at": "2026-04-11T15:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042992270199443701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiZvMwtX9v",
+          "end": 48,
+          "expanded_url": "https://x.com/CunZai1069/status/2042992270199443701/photo/1",
+          "media_key": "3_2042992249244667904",
+          "start": 25,
+          "url": "https://t.co/CiZvMwtX9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042992270199443701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发推真的会有人看吗，看评论区那么多人机有点吓人啊 https://t.co/CiZvMwtX9v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2086,
+        "media_key": "3_2042992249244667904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoqoF8a0AAcSZW.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042992249244667904"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2042992270199443701",
+        "created_at": "2026-04-11T15:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042992270199443701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiZvMwtX9v",
+              "end": 48,
+              "expanded_url": "https://x.com/CunZai1069/status/2042992270199443701/photo/1",
+              "media_key": "3_2042992249244667904",
+              "start": 25,
+              "url": "https://t.co/CiZvMwtX9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042992270199443701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发推真的会有人看吗，看评论区那么多人机有点吓人啊 https://t.co/CiZvMwtX9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "",
+        "id": "1942368986051796992",
+        "name": "存之秋王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983183689396948992/0zMNGY7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 51,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

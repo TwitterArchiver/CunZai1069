@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067440280916385792",
+        "3_2067440285723041792"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2067440290588471751",
+    "created_at": "2026-06-18T02:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067440290588471751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NzyHtplpYE",
+          "end": 96,
+          "expanded_url": "https://x.com/CunZai1069/status/2067440290588471751/photo/1",
+          "media_key": "3_2067440280916385792",
+          "start": 73,
+          "url": "https://t.co/NzyHtplpYE"
+        },
+        {
+          "display_url": "pic.x.com/NzyHtplpYE",
+          "end": 96,
+          "expanded_url": "https://x.com/CunZai1069/status/2067440290588471751/photo/1",
+          "media_key": "3_2067440285723041792",
+          "start": 73,
+          "url": "https://t.co/NzyHtplpYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067440290588471751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day7 想让你尽情跳楼(?)的歌\n「Menhe-Raw (Extended Mix)」\n作者 Asatsumei\n不是风姿真写不出来这玩意() https://t.co/NzyHtplpYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_2067440280916385792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEF-1Ja4AAXLwa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2067440285723041792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEF_HDaoAAv-19.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067440280916385792",
+            "3_2067440285723041792"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2067440290588471751",
+        "created_at": "2026-06-18T02:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067440290588471751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzyHtplpYE",
+              "end": 96,
+              "expanded_url": "https://x.com/CunZai1069/status/2067440290588471751/photo/1",
+              "media_key": "3_2067440280916385792",
+              "start": 73,
+              "url": "https://t.co/NzyHtplpYE"
+            },
+            {
+              "display_url": "pic.x.com/NzyHtplpYE",
+              "end": 96,
+              "expanded_url": "https://x.com/CunZai1069/status/2067440290588471751/photo/1",
+              "media_key": "3_2067440285723041792",
+              "start": 73,
+              "url": "https://t.co/NzyHtplpYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067440290588471751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day7 想让你尽情跳楼(?)的歌\n「Menhe-Raw (Extended Mix)」\n作者 Asatsumei\n不是风姿真写不出来这玩意() https://t.co/NzyHtplpYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1269,
+          "like_count": 4246,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

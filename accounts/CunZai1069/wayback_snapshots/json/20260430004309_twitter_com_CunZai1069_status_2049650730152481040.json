@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049650725014360064",
+        "3_2049650725194813441",
+        "3_2049650725207388160"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049650730152481040",
+    "created_at": "2026-04-30T00:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T01:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049650730152481040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XBqUmYr6wX",
+          "end": 62,
+          "expanded_url": "https://x.com/CunZai1069/status/2049650730152481040/photo/1",
+          "media_key": "3_2049650725014360064",
+          "start": 39,
+          "url": "https://t.co/XBqUmYr6wX"
+        },
+        {
+          "display_url": "pic.x.com/XBqUmYr6wX",
+          "end": 62,
+          "expanded_url": "https://x.com/CunZai1069/status/2049650730152481040/photo/1",
+          "media_key": "3_2049650725194813441",
+          "start": 39,
+          "url": "https://t.co/XBqUmYr6wX"
+        },
+        {
+          "display_url": "pic.x.com/XBqUmYr6wX",
+          "end": 62,
+          "expanded_url": "https://x.com/CunZai1069/status/2049650730152481040/photo/1",
+          "media_key": "3_2049650725207388160",
+          "start": 39,
+          "url": "https://t.co/XBqUmYr6wX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049650730152481040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也稀饭你！\n已经是20岁油腻大叔了(悲)\n早上好喵，给你皮鞋👞(发国口音) https://t.co/XBqUmYr6wX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_2049650725014360064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHSeZIaUAArrrH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 858,
+        "media_key": "3_2049650725194813441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHSeZzb0AEfNpn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 858,
+        "media_key": "3_2049650725207388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHSeZ2bsAALRJJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049650725014360064",
+            "3_2049650725194813441",
+            "3_2049650725207388160"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049650730152481040",
+        "created_at": "2026-04-30T00:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049650730152481040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBqUmYr6wX",
+              "end": 62,
+              "expanded_url": "https://x.com/CunZai1069/status/2049650730152481040/photo/1",
+              "media_key": "3_2049650725014360064",
+              "start": 39,
+              "url": "https://t.co/XBqUmYr6wX"
+            },
+            {
+              "display_url": "pic.x.com/XBqUmYr6wX",
+              "end": 62,
+              "expanded_url": "https://x.com/CunZai1069/status/2049650730152481040/photo/1",
+              "media_key": "3_2049650725194813441",
+              "start": 39,
+              "url": "https://t.co/XBqUmYr6wX"
+            },
+            {
+              "display_url": "pic.x.com/XBqUmYr6wX",
+              "end": 62,
+              "expanded_url": "https://x.com/CunZai1069/status/2049650730152481040/photo/1",
+              "media_key": "3_2049650725207388160",
+              "start": 39,
+              "url": "https://t.co/XBqUmYr6wX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049650730152481040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也稀饭你！\n已经是20岁油腻大叔了(悲)\n早上好喵，给你皮鞋👞(发国口音) https://t.co/XBqUmYr6wX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的。中抑重焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 76,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 53,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 109,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 86,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2049266886844821694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 470,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

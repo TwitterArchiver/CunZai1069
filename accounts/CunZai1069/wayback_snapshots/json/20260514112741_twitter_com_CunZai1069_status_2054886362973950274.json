@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2054844044501774434",
+    "created_at": "2026-05-14T11:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054886362973950274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1799666750088175616",
+          "start": 0,
+          "username": "LycoReco_neneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054886362973950274",
+    "in_reply_to_user_id": "1799666750088175616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054886125614072178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LycoReco_neneko 好啊，玩什么（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2054844044501774434",
+        "created_at": "2026-05-14T11:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054886362973950274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1799666750088175616",
+              "start": 0,
+              "username": "LycoReco_neneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054886362973950274",
+        "in_reply_to_user_id": "1799666750088175616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054886125614072178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LycoReco_neneko 好啊，玩什么（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799666750088175616",
+        "conversation_id": "2054844044501774434",
+        "created_at": "2026-05-14T11:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054886125614072178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054886125614072178",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054844044501774434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 来陪我玩（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2049266886844821694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 637,
+          "like_count": 1522,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T04:59:07.000Z",
+        "description": "铃兰小姐我们的光！(雾）\n欢迎互相关注owo/\n不鉴证/猫猫\\学生党/好朋友 @my9361231136899 /主人 @owl8964cat /喜欢的@Tsugaru_1997 https://t.co/CFewIUGTz9\n yes lolita no touch 原神/明日方舟/蓝孩纸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "my9361231136899"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "owl8964cat"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Tsugaru_1997"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/36368076",
+                "end": 113,
+                "expanded_url": "https://osu.ppy.sh/users/36368076",
+                "start": 90,
+                "url": "https://t.co/CFewIUGTz9"
+              }
+            ]
+          }
+        },
+        "id": "1799666750088175616",
+        "location": "夜之国",
+        "name": "神樂坂🌸莉可（淡推.ing",
+        "pinned_tweet_id": "1925176522945814696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989322273032192000/0O6sMxC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 450,
+          "like_count": 43937,
+          "listed_count": 5,
+          "media_count": 3210,
+          "tweet_count": 6623
+        },
+        "username": "LycoReco_neneko",
+        "verified": false
+      }
+    ]
+  }
+}

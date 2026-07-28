@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2049352818734325835",
+    "created_at": "2026-04-29T16:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049531268262691229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981002139158880256",
+          "start": 0,
+          "username": "Miyazaki_karu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049531268262691229",
+    "in_reply_to_user_id": "1981002139158880256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049500045058392133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyazaki_karu 谢谢你，祝你开心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2049352818734325835",
+        "created_at": "2026-04-29T16:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049531268262691229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981002139158880256",
+              "start": 0,
+              "username": "Miyazaki_karu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049531268262691229",
+        "in_reply_to_user_id": "1981002139158880256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049500045058392133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyazaki_karu 谢谢你，祝你开心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981002139158880256",
+        "conversation_id": "2049352818734325835",
+        "created_at": "2026-04-29T14:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049500045058392133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049500045058392133",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049352818734325835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 雖然認識你沒多久 但是看你在這麼辛苦的狀況下還很認真的回覆留言 我覺得你很了不起很棒喔( ´ ▽ ` )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的。中抑重焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 76,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 53,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 109,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 86,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2049266886844821694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 458,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T14:18:28.000Z",
+        "description": "主推 淵素直|副推 弟切飛 蛭間真晝|Eve |まりやす|喜歡畫圖|ch、en（Translation）",
+        "id": "1981002139158880256",
+        "name": "宮崎貓",
+        "pinned_tweet_id": "2047301679243239486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036052950808936448/1g17k2Wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 164,
+          "like_count": 39754,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 3597
+        },
+        "username": "Miyazaki_karu",
+        "verified": false
+      }
+    ]
+  }
+}

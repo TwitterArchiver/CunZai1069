@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2045644301267566815",
+    "created_at": "2026-04-18T23:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T00:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045644301267566815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2045515298674266418",
+          "start": 26,
+          "url": "https://t.co/Qqy9MsyX79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045644301267566815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045515298674266418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯，其实我推上也没有朋友😭我也要主动一点吗，好累。 https://t.co/Qqy9MsyX79"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2045644301267566815",
+        "created_at": "2026-04-18T23:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045644301267566815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2045515298674266418",
+              "start": 26,
+              "url": "https://t.co/Qqy9MsyX79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045644301267566815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045515298674266418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯，其实我推上也没有朋友😭我也要主动一点吗，好累。 https://t.co/Qqy9MsyX79"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045515298674266418",
+        "created_at": "2026-04-18T14:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045515298674266418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045515298674266418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1894,
+          "like_count": 52,
+          "quote_count": 3,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家都是怎么解决没有朋友的问题呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "现大二计算机专业，写点小应用没什么问题…。轻抑中焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 91,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 68,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 23,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 0,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存之秋王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 56,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/kOm2R6CHtc",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11530,
+          "following_count": 4868,
+          "like_count": 87053,
+          "listed_count": 21,
+          "media_count": 2123,
+          "tweet_count": 19165
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2064665883801538806",
+    "created_at": "2026-06-11T11:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065036865485586650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064000182476509184",
+          "start": 0,
+          "username": "johnzwseg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065036865485586650",
+    "in_reply_to_user_id": "2064000182476509184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065004897385492752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnzwseg 18岁生日，我爸爸的朋友送了我一副马歇尔major4。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2064665883801538806",
+        "created_at": "2026-06-11T11:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065036865485586650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064000182476509184",
+              "start": 0,
+              "username": "johnzwseg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065036865485586650",
+        "in_reply_to_user_id": "2064000182476509184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065004897385492752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnzwseg 18岁生日，我爸爸的朋友送了我一副马歇尔major4。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064000182476509184",
+        "conversation_id": "2064665883801538806",
+        "created_at": "2026-06-11T09:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065004897385492752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065004897385492752",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064665883801538806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 1234,
+          "like_count": 3931,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 1162
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T15:03:24.000Z",
+        "description": "已严肃处理自己简介",
+        "id": "2064000182476509184",
+        "location": "树荫",
+        "name": "Aqr1111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064359330229747712/vdRXZScs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 29,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 178
+        },
+        "username": "johnzwseg",
+        "verified": false
+      }
+    ]
+  }
+}

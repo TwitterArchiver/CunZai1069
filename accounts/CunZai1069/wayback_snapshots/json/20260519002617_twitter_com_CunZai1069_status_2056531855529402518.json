@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2056356159800676851",
+    "created_at": "2026-05-19T00:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056531855529402518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1183920784009351168",
+          "start": 0,
+          "username": "mea_soratane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056531855529402518",
+    "in_reply_to_user_id": "1183920784009351168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056417717784391821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mea_soratane 是这样的¯꒳¯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-19T00:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056531855529402518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1183920784009351168",
+              "start": 0,
+              "username": "mea_soratane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056531855529402518",
+        "in_reply_to_user_id": "1183920784009351168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056417717784391821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mea_soratane 是这样的¯꒳¯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183920784009351168",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-18T16:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056417717784391821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056417717784391821",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056356159800676851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 忙起来一样会抑郁，忙完闲下来更容易抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 981,
+          "like_count": 2252,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-15T01:41:39.000Z",
+        "description": "写小说的。\npixiv：https://t.co/R0omZhZdmH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/111645211",
+                "end": 35,
+                "expanded_url": "https://www.pixiv.net/users/111645211",
+                "start": 12,
+                "url": "https://t.co/R0omZhZdmH"
+              }
+            ]
+          }
+        },
+        "id": "1183920784009351168",
+        "location": "Hong Kong",
+        "name": "mea@《如果能弹钢琴就好了》",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049172686400851968/rLy2HDPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 87,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 52
+        },
+        "username": "mea_soratane",
+        "verified": false
+      }
+    ]
+  }
+}

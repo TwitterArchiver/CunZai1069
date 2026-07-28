@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2062141394417041546",
+    "created_at": "2026-06-04T08:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062447961943212128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541798404321292293",
+          "start": 0,
+          "username": "pao79617382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062447961943212128",
+    "in_reply_to_user_id": "1541798404321292293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062445510674575781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pao79617382 1150\n太强了喵🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 254,
+        "media_key": "3_2062445508212473856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9HQy2awAAIejb.jpg",
+        "width": 539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2062141394417041546",
+        "created_at": "2026-06-04T08:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062447961943212128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541798404321292293",
+              "start": 0,
+              "username": "pao79617382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062447961943212128",
+        "in_reply_to_user_id": "1541798404321292293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062445510674575781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pao79617382 1150\n太强了喵🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062445508212473856"
+          ]
+        },
+        "author_id": "1541798404321292293",
+        "conversation_id": "2062141394417041546",
+        "created_at": "2026-06-04T08:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062445510674575781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXIuiuT1z8",
+              "end": 46,
+              "expanded_url": "https://x.com/pao79617382/status/2062445510674575781/photo/1",
+              "media_key": "3_2062445508212473856",
+              "start": 23,
+              "url": "https://t.co/jXIuiuT1z8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062445510674575781",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062141394417041546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 我的长这样(´ཫ`) https://t.co/jXIuiuT1z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1184,
+          "like_count": 3628,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1092
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T14:59:39.000Z",
+        "description": "我是槿爻。09生理女性向女/双相/血od有/友跨/直fo是喜欢你/互关欢迎fo我会回/我会评论装熟欢迎随意互动（English/Japanese勉強中）不键政不吵架不站队专心经营我的糖逼生活。                          ID只是个人属性。有好多女孩子男孩子跟我玩我好开心😋私信没消息提醒看见就回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2872121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2872121",
+                "start": 0,
+                "url": "https://t.co/y7Yg6JKBLv"
+              }
+            ]
+          }
+        },
+        "id": "1541798404321292293",
+        "location": "埃弗拉德金库",
+        "name": "理查德斯特林的梦幻之逼",
+        "pinned_tweet_id": "2044419277202264126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023229153244540928/2_YKTroh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 208,
+          "like_count": 8867,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/y7Yg6JKBLv",
+        "username": "pao79617382",
+        "verified": false
+      }
+    ]
+  }
+}

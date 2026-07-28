@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2079988648104362125",
+    "created_at": "2026-07-22T17:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079988648104362125"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079988648104362125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然出想起现昨天晚上看lfy直播,我忘啥东西能进游戏和主播打(神秘).反正我也去了,qq玩液氮玩和乌鲁鲁,除了感觉我操作变得很豪好漂移但是点击不是开枪而是点开播放界面,我当时就纳闷了\n,怎么老抢我鼠标明明拉过去就,好在也是后面拼尽全力杀了一个内心当时os:这下网友不会发现我o大了吧(?)\n现在我:🤡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2079988648104362125",
+        "created_at": "2026-07-22T17:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079988648104362125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079988648104362125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然出想起现昨天晚上看lfy直播,我忘啥东西能进游戏和主播打(神秘).反正我也去了,qq玩液氮玩和乌鲁鲁,除了感觉我操作变得很豪好漂移但是点击不是开枪而是点开播放界面,我当时就纳闷了\n,怎么老抢我鼠标明明拉过去就,好在也是后面拼尽全力杀了一个内心当时os:这下网友不会发现我o大了吧(?)\n现在我:🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1290,
+          "like_count": 4515,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2058732406765719927",
+    "created_at": "2026-05-25T02:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058732406765719927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1585145286598483968",
+          "start": 3,
+          "username": "lianyiganyu"
+        },
+        {
+          "end": 88,
+          "id": "1300828282061877249",
+          "start": 75,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058732406765719927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058592689692815370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianyiganyu: 恳请大家尽可能转发扩散本条推文，还有本条推文所引用的这条推文！\n\n如果有余力，请大家尽可能帮忙向 X 官方反馈账号 @hanlianyi331 被错误封禁的问题，以此来尽可能让 X 官方 的真人人工客服来处理该问题。\n\n2026年5月24日21…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2058732406765719927",
+        "created_at": "2026-05-25T02:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058732406765719927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1585145286598483968",
+              "start": 3,
+              "username": "lianyiganyu"
+            },
+            {
+              "end": 88,
+              "id": "1300828282061877249",
+              "start": 75,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058732406765719927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058592689692815370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianyiganyu: 恳请大家尽可能转发扩散本条推文，还有本条推文所引用的这条推文！\n\n如果有余力，请大家尽可能帮忙向 X 官方反馈账号 @hanlianyi331 被错误封禁的问题，以此来尽可能让 X 官方 的真人人工客服来处理该问题。\n\n2026年5月24日21…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585145286598483968",
+        "conversation_id": "2058592689692815370",
+        "created_at": "2026-05-24T16:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058592689692815370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1300828282061877249",
+              "start": 58,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 137,
+              "id": "1300828282061877249",
+              "start": 124,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/lianyiganyu/status/2058589022277312747",
+              "start": 158,
+              "url": "https://t.co/zGT3tFFnbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058592689692815370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 71,
+                "id": "1300828282061877249",
+                "start": 58,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 137,
+                "id": "1300828282061877249",
+                "start": 124,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 200,
+                "id": "1300828282061877249",
+                "start": 187,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "text": "恳请大家尽可能转发扩散本条推文，还有本条推文所引用的这条推文！\n\n如果有余力，请大家尽可能帮忙向 X 官方反馈账号 @hanlianyi331 被错误封禁的问题，以此来尽可能让 X 官方 的真人人工客服来处理该问题。\n\n2026年5月24日21时，@hanlianyi331 的账号被 X 官方 永久冻结，并且 X 官方未给出任何具体的原因。但是根据猜测，最有可能的原因是 @HANLIANYI331 账号最近两天发布的关于恋童障碍相关的法律与精神医学方面的两篇学术讨论文章，可能先是有人恶意举报，其后被 X 官方的 AI 错误识别，从而进行封禁。\n\n因为 X 官方 会在永封一个账号后，继续永封和这个账号相同IP，设备，邮箱和电话的新账号。因此后续30天时间，寒涟漪会暂时使用涟漪危机干预的账号来发送新动态，并且在此期间，持续向 X 官方进行反馈，尽可能联系到 X 的真人人工客服。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2466,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058589022277312747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恳请大家尽可能转发扩散本条推文，还有本条推文所引用的这条推文！\n\n如果有余力，请大家尽可能帮忙向 X 官方反馈账号 @hanlianyi331 被错误封禁的问题，以此来尽可能让 X 官方 的真人人工客服来处理该问题。\n\n2026年5月24日21时，@hanlianyi331 的账号被 X 官方 永久冻结，并且 X https://t.co/zGT3tFFnbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 1114,
+          "like_count": 3171,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3722,
+          "following_count": 5,
+          "like_count": 35,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41657,
+          "following_count": 3770,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 2883
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074736913123323904"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2074736961236197544",
+    "created_at": "2026-07-08T06:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074736961236197544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8vwjsOBqB2",
+          "end": 39,
+          "expanded_url": "https://x.com/CunZai1069/status/2074736961236197544/video/1",
+          "media_key": "7_2074736913123323904",
+          "start": 16,
+          "url": "https://t.co/8vwjsOBqB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074736961236197544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仿制了剑圣的memories( https://t.co/8vwjsOBqB2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58266,
+        "height": 720,
+        "media_key": "7_2074736913123323904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074736913123323904/pu/img/uGOIlLwsap2HNFsR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074736913123323904/pu/vid/avc1/480x270/wkhONqsvgB63kat9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074736913123323904/pu/vid/avc1/640x360/IyqWfkZ0DIKxw0q4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074736913123323904/pu/vid/avc1/1280x720/B2Hjj0XsyaaorZ0J.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074736913123323904/pu/pl/Gxsgecuq5q9bwbOh.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074736913123323904"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2074736961236197544",
+        "created_at": "2026-07-08T06:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074736961236197544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vwjsOBqB2",
+              "end": 39,
+              "expanded_url": "https://x.com/CunZai1069/status/2074736961236197544/video/1",
+              "media_key": "7_2074736913123323904",
+              "start": 16,
+              "url": "https://t.co/8vwjsOBqB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074736961236197544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仿制了剑圣的memories( https://t.co/8vwjsOBqB2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1293,
+          "like_count": 4460,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

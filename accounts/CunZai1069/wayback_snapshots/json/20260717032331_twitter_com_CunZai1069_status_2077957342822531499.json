@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2077786545298546794",
+    "created_at": "2026-07-17T03:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077957342822531499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048047043600617472",
+          "start": 0,
+          "username": "Ainoz_a148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077957342822531499",
+    "in_reply_to_user_id": "2048047043600617472",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077957194046468167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ainoz_a148 &lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2077786545298546794",
+        "created_at": "2026-07-17T03:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077957342822531499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048047043600617472",
+              "start": 0,
+              "username": "Ainoz_a148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077957342822531499",
+        "in_reply_to_user_id": "2048047043600617472",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077957194046468167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ainoz_a148 &lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048047043600617472",
+        "conversation_id": "2077786545298546794",
+        "created_at": "2026-07-17T03:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077957194046468167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077957194046468167",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077786545298546794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 眾所周知宇宙是有曲率的（\n離所有人越來越遠的同時\n離所有人越來越近"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1282,
+          "like_count": 4491,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:32:14.000Z",
+        "description": "「奮六世之餘烈」\n浙江-杭州府\n出生於崇禎三百八十二年十月十一（2009.11.27，現高一）\n我有政冷淡（）\n窮盡一生的是向未來的無盡展望",
+        "id": "2048047043600617472",
+        "location": "南直隸",
+        "name": "決明子Ainoz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064144964075048960/l0io6nRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 68,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Ainoz_a148",
+        "verified": false
+      }
+    ]
+  }
+}

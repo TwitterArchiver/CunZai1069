@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2071749762488074324",
+    "created_at": "2026-07-01T16:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072354151930143028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041026542831058944",
+          "start": 0,
+          "username": "ShiXiangyu81670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072354151930143028",
+    "in_reply_to_user_id": "2041026542831058944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072046852749557783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiXiangyu81670 不要试喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2071749762488074324",
+        "created_at": "2026-07-01T16:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072354151930143028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041026542831058944",
+              "start": 0,
+              "username": "ShiXiangyu81670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072354151930143028",
+        "in_reply_to_user_id": "2041026542831058944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072046852749557783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiXiangyu81670 不要试喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041026542831058944",
+        "conversation_id": "2071749762488074324",
+        "created_at": "2026-06-30T19:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072046852749557783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072046852749557783",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071749762488074324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 我会试试是真的假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1292,
+          "like_count": 4440,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 1277
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T05:34:28.000Z",
+        "description": "私は死にたかった。死んだ今、過去の苦しみはすべて消え去るだろう",
+        "id": "2041026542831058944",
+        "location": "天国",
+        "name": "棠靖琳",
+        "pinned_tweet_id": "2071607147792924746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071240125296865281/6SYJrQ7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "ShiXiangyu81670",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068741004631621632",
+        "3_2068741005143339008"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2068741008851075538",
+    "created_at": "2026-06-21T17:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068741008851075538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1x3TlAdzXt",
+          "end": 152,
+          "expanded_url": "https://x.com/CunZai1069/status/2068741008851075538/photo/1",
+          "media_key": "3_2068741004631621632",
+          "start": 129,
+          "url": "https://t.co/1x3TlAdzXt"
+        },
+        {
+          "display_url": "pic.x.com/1x3TlAdzXt",
+          "end": 152,
+          "expanded_url": "https://x.com/CunZai1069/status/2068741008851075538/photo/1",
+          "media_key": "3_2068741005143339008",
+          "start": 129,
+          "url": "https://t.co/1x3TlAdzXt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068741008851075538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day9 能让你感到开心的歌\n「Echo of love」Lasha/Dankidz/StarlingEDM/KJ Physical\n只是一首简单的 future bounce\n两段drop我都很喜欢，听着就心情舒畅\n他封面经常变啊，现在已经是第三代了() https://t.co/1x3TlAdzXt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_2068741004631621632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWk-6laQAA471e.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068741005143339008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWk-8facAAw8jR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068741004631621632",
+            "3_2068741005143339008"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2068741008851075538",
+        "created_at": "2026-06-21T17:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068741008851075538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1x3TlAdzXt",
+              "end": 152,
+              "expanded_url": "https://x.com/CunZai1069/status/2068741008851075538/photo/1",
+              "media_key": "3_2068741004631621632",
+              "start": 129,
+              "url": "https://t.co/1x3TlAdzXt"
+            },
+            {
+              "display_url": "pic.x.com/1x3TlAdzXt",
+              "end": 152,
+              "expanded_url": "https://x.com/CunZai1069/status/2068741008851075538/photo/1",
+              "media_key": "3_2068741005143339008",
+              "start": 129,
+              "url": "https://t.co/1x3TlAdzXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068741008851075538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day9 能让你感到开心的歌\n「Echo of love」Lasha/Dankidz/StarlingEDM/KJ Physical\n只是一首简单的 future bounce\n两段drop我都很喜欢，听着就心情舒畅\n他封面经常变啊，现在已经是第三代了() https://t.co/1x3TlAdzXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1275,
+          "like_count": 4324,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 1230
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

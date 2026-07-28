@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2075911076257075630",
+    "created_at": "2026-07-11T12:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075921412590883245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807114644252921856",
+          "start": 0,
+          "username": "Inyuki_1014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075921412590883245",
+    "in_reply_to_user_id": "1807114644252921856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075920939116814408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inyuki_1014 后面我看情况吧，尽量待外面。主要焦虑感一直持续，不知道自己还能挺多久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2075911076257075630",
+        "created_at": "2026-07-11T12:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075921412590883245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807114644252921856",
+              "start": 0,
+              "username": "Inyuki_1014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075921412590883245",
+        "in_reply_to_user_id": "1807114644252921856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075920939116814408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inyuki_1014 后面我看情况吧，尽量待外面。主要焦虑感一直持续，不知道自己还能挺多久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807114644252921856",
+        "conversation_id": "2075911076257075630",
+        "created_at": "2026-07-11T12:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075920939116814408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075920939116814408",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075911076257075630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 大多時候這種感覺還是比較准確的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 1286,
+          "like_count": 4460,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 1296
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T18:12:05.000Z",
+        "description": "ink.脳幹を駆け巡る | 記錄員 | 巴別圖書館 | 流放 | SnowLive | 惡毒惡俗 | 地獄笑話 | MTF | 多意識體 | 混亂.jpg | 咪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/inyuki_1…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/inyuki_1014",
+                "start": 0,
+                "url": "https://t.co/ZkfRXyqEvB"
+              }
+            ]
+          }
+        },
+        "id": "1807114644252921856",
+        "location": "吶，我愛你",
+        "name": "墨雪inyuki",
+        "pinned_tweet_id": "2069709301749608677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002733541436878848/wEJt2urF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 664,
+          "like_count": 20432,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 3975
+        },
+        "url": "https://t.co/ZkfRXyqEvB",
+        "username": "Inyuki_1014",
+        "verified": true
+      }
+    ]
+  }
+}

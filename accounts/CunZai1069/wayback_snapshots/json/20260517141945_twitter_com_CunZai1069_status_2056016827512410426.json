@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2055869136258175454",
+    "created_at": "2026-05-17T14:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056016827512410426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046133273261129728",
+          "start": 0,
+          "username": "_KK_Blacke_NEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056016827512410426",
+    "in_reply_to_user_id": "2046133273261129728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055993461392728466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_KK_Blacke_NEW 抱抱尼🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2055869136258175454",
+        "created_at": "2026-05-17T14:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056016827512410426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046133273261129728",
+              "start": 0,
+              "username": "_KK_Blacke_NEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056016827512410426",
+        "in_reply_to_user_id": "2046133273261129728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055993461392728466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_KK_Blacke_NEW 抱抱尼🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046133273261129728",
+        "conversation_id": "2055869136258175454",
+        "created_at": "2026-05-17T12:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055993461392728466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055993461392728466",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055869136258175454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 存存真的是很好的一个人呀。。你没做错任何事情🥺抱抱你摸摸你！( ´･ω･)ﾉ(._.`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 951,
+          "like_count": 1927,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T07:46:26.000Z",
+        "description": "Black/KK｜中文/ENG\n雑多アカウント\ntranslator user here,plz forgive my weird English\nold account @_KK_Blacke got locked, so I’m here now💔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "_KK_Blacke"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kkblacke.straw.page",
+                "end": 23,
+                "expanded_url": "https://kkblacke.straw.page",
+                "start": 0,
+                "url": "https://t.co/fkxlyU8h3c"
+              }
+            ]
+          }
+        },
+        "id": "2046133273261129728",
+        "location": "he/she/any pronoun",
+        "name": "(•́ω•̀ )K",
+        "pinned_tweet_id": "2052042464412762473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050984582900506624/JYGwA09Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 28,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/fkxlyU8h3c",
+        "username": "_KK_Blacke_NEW",
+        "verified": false
+      }
+    ]
+  }
+}

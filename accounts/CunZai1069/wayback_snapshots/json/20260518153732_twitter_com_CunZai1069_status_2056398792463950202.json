@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2056356159800676851",
+    "created_at": "2026-05-18T15:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056398792463950202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558825107664932865",
+          "start": 0,
+          "username": "Akum6_Junsh1n4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056398792463950202",
+    "in_reply_to_user_id": "1558825107664932865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056395098913742923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akum6_Junsh1n4 这是经验主义，他们不会想那么多，也对病症没有正确认识，自我调节能力也很强，他们主观上是不认为有抑郁症这个病的，就算有的人承认有病，也不会积极配合治疗，总是语出惊人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-18T15:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056398792463950202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558825107664932865",
+              "start": 0,
+              "username": "Akum6_Junsh1n4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056398792463950202",
+        "in_reply_to_user_id": "1558825107664932865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056395098913742923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akum6_Junsh1n4 这是经验主义，他们不会想那么多，也对病症没有正确认识，自我调节能力也很强，他们主观上是不认为有抑郁症这个病的，就算有的人承认有病，也不会积极配合治疗，总是语出惊人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558825107664932865",
+        "conversation_id": "2056356159800676851",
+        "created_at": "2026-05-18T15:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056395098913742923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056395098913742923",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056356159800676851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 那我怎么说，我只要工作一停下就会抑郁，照他们这么说，我是不是要24小时不间断工作就不会抑郁了？\n但凡他们搞得懂就不会说这样的话了，仅仅只是把这个视作偷懒和懈怠的借口就感觉挺好笑……\n\n不过有一说一，要是把他们砍了我还真不会抑郁了呢，毕竟说教的人都寄了就很高兴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 979,
+          "like_count": 2187,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T14:37:34.000Z",
+        "description": "Глупые люди счастливы, потому что они никогда не считают себя дураками.",
+        "id": "1558825107664932865",
+        "location": "科普卢星区→特雷森学园→彼岸",
+        "name": "Прости меня и забудь меня.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775580792475648/KWRmfvx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1359,
+          "like_count": 56077,
+          "listed_count": 15,
+          "media_count": 743,
+          "tweet_count": 18417
+        },
+        "username": "Akum6_Junsh1n4",
+        "verified": false
+      }
+    ]
+  }
+}

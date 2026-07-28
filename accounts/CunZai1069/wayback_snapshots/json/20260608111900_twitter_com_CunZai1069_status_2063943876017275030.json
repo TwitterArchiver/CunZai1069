@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2063908018513908093",
+    "created_at": "2026-06-08T11:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063943876017275030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707351899551490048",
+          "start": 0,
+          "username": "FhtgKey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063943876017275030",
+    "in_reply_to_user_id": "1707351899551490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063942391321817101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FhtgKey 买不起()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2063908018513908093",
+        "created_at": "2026-06-08T11:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063943876017275030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707351899551490048",
+              "start": 0,
+              "username": "FhtgKey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063943876017275030",
+        "in_reply_to_user_id": "1707351899551490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063942391321817101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FhtgKey 买不起()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707351899551490048",
+        "conversation_id": "2063908018513908093",
+        "created_at": "2026-06-08T11:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063942391321817101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063942391321817101",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063908018513908093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 该买流星了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 重抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1211,
+          "like_count": 3794,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 1117
+        },
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:09:57.000Z",
+        "description": "Balance、Natural、Greatness\n中文/English/日本語",
+        "id": "1707351899551490048",
+        "location": "Japan",
+        "name": "日落向日葵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001681060569194496/zfU0hPtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 42,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 427
+        },
+        "username": "FhtgKey",
+        "verified": true
+      }
+    ]
+  }
+}

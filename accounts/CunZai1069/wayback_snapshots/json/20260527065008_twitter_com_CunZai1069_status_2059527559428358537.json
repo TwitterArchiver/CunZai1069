@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059527546694426624",
+        "3_2059527548204392449",
+        "3_2059527552084123648",
+        "3_2059527557071208448"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059527559428358537",
+    "created_at": "2026-05-27T06:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059527559428358537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0VrMCClr1P",
+          "end": 148,
+          "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+          "media_key": "3_2059527546694426624",
+          "start": 125,
+          "url": "https://t.co/0VrMCClr1P"
+        },
+        {
+          "display_url": "pic.x.com/0VrMCClr1P",
+          "end": 148,
+          "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+          "media_key": "3_2059527548204392449",
+          "start": 125,
+          "url": "https://t.co/0VrMCClr1P"
+        },
+        {
+          "display_url": "pic.x.com/0VrMCClr1P",
+          "end": 148,
+          "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+          "media_key": "3_2059527552084123648",
+          "start": 125,
+          "url": "https://t.co/0VrMCClr1P"
+        },
+        {
+          "display_url": "pic.x.com/0VrMCClr1P",
+          "end": 148,
+          "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+          "media_key": "3_2059527557071208448",
+          "start": 125,
+          "url": "https://t.co/0VrMCClr1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059527559428358537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1. 当然没问题喵，不过我菜菜\n2. bro已经被严格监管了，什么药也碰不到😭\n3. 😡(指脸红)。喜欢你喵，最近可能是断药反跳，后面续上或许能稳定些)会好好治疗的喵，不能再死了……\n4. ww我也很尴尬)，16感觉好瘦啊。只能说我挺胖的(Ｔ▽Ｔ) https://t.co/0VrMCClr1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2059527546694426624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTpZFHaYAARfY7.jpg",
+        "width": 1274
+      },
+      {
+        "height": 833,
+        "media_key": "3_2059527548204392449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTpZKvaoAEwhw3.jpg",
+        "width": 1272
+      },
+      {
+        "height": 888,
+        "media_key": "3_2059527552084123648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTpZZMaoAAppgv.jpg",
+        "width": 1277
+      },
+      {
+        "height": 854,
+        "media_key": "3_2059527557071208448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTpZrxbgAA0yXJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059527546694426624",
+            "3_2059527548204392449",
+            "3_2059527552084123648",
+            "3_2059527557071208448"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059527559428358537",
+        "created_at": "2026-05-27T06:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059527559428358537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VrMCClr1P",
+              "end": 148,
+              "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+              "media_key": "3_2059527546694426624",
+              "start": 125,
+              "url": "https://t.co/0VrMCClr1P"
+            },
+            {
+              "display_url": "pic.x.com/0VrMCClr1P",
+              "end": 148,
+              "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+              "media_key": "3_2059527548204392449",
+              "start": 125,
+              "url": "https://t.co/0VrMCClr1P"
+            },
+            {
+              "display_url": "pic.x.com/0VrMCClr1P",
+              "end": 148,
+              "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+              "media_key": "3_2059527552084123648",
+              "start": 125,
+              "url": "https://t.co/0VrMCClr1P"
+            },
+            {
+              "display_url": "pic.x.com/0VrMCClr1P",
+              "end": 148,
+              "expanded_url": "https://x.com/CunZai1069/status/2059527559428358537/photo/1",
+              "media_key": "3_2059527557071208448",
+              "start": 125,
+              "url": "https://t.co/0VrMCClr1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059527559428358537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1. 当然没问题喵，不过我菜菜\n2. bro已经被严格监管了，什么药也碰不到😭\n3. 😡(指脸红)。喜欢你喵，最近可能是断药反跳，后面续上或许能稳定些)会好好治疗的喵，不能再死了……\n4. ww我也很尴尬)，16感觉好瘦啊。只能说我挺胖的(Ｔ▽Ｔ) https://t.co/0VrMCClr1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai106999120",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai106999120",
+                "start": 0,
+                "url": "https://t.co/aFn5aJJGzp"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1136,
+          "like_count": 3272,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/aFn5aJJGzp",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

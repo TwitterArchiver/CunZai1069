@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2048726488716017993",
+    "created_at": "2026-04-28T04:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048985109475598813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048388264743297024",
+          "start": 0,
+          "username": "qienydayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048985109475598813",
+    "in_reply_to_user_id": "2048388264743297024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048978838038913317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qienydayu 我也喜欢扣手，现在手背全是隐隐约约的黑色小斑点，老后悔了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2048726488716017993",
+        "created_at": "2026-04-28T04:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048985109475598813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048388264743297024",
+              "start": 0,
+              "username": "qienydayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048985109475598813",
+        "in_reply_to_user_id": "2048388264743297024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048978838038913317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qienydayu 我也喜欢扣手，现在手背全是隐隐约约的黑色小斑点，老后悔了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048388264743297024",
+        "conversation_id": "2048726488716017993",
+        "created_at": "2026-04-28T04:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048978838038913317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048978838038913317",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048902559902077042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 一直到左手 右手布满了密密麻麻红色的指甲印，这个时候我反而是最冷静 最理智的时候。\n我感觉我也很抽象，我发病是为了让自己冷静下来，就比如说突然的掐自己手，或者说挠额头，并不是我情绪不稳定了 反而是我情绪稳定的证明，所以说我感觉我并不是完全的病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的。中抑重焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 76,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 53,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 109,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 86,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/https://ngl.li…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/At6so2m75V"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2048726488716017993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 252,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/At6so2m75V",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:06:45.000Z",
+        "description": "can play China music sochus dizi erhu xiao and love ACG , e.. \nMaybe I can try cosplay?",
+        "id": "2048388264743297024",
+        "location": "I dare not say ",
+        "name": "李不念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388312927498241/D1bckWLF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "qienydayu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066685539311624192"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2066685542633513093",
+    "created_at": "2026-06-16T00:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066685542633513093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qYxkyMPJLU",
+          "end": 80,
+          "expanded_url": "https://x.com/CunZai1069/status/2066685542633513093/photo/1",
+          "media_key": "3_2066685539311624192",
+          "start": 57,
+          "url": "https://t.co/qYxkyMPJLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066685542633513093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Day4 让你想起宁愿忘记的人的歌\n这个实在想不到了，放个glitter ✩‧₊˚在这里吧\n作者是lexycat https://t.co/qYxkyMPJLU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_2066685539311624192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5XjFkbIAARK__.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066685539311624192"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2066685542633513093",
+        "created_at": "2026-06-16T00:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066685542633513093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYxkyMPJLU",
+              "end": 80,
+              "expanded_url": "https://x.com/CunZai1069/status/2066685542633513093/photo/1",
+              "media_key": "3_2066685539311624192",
+              "start": 57,
+              "url": "https://t.co/qYxkyMPJLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066685542633513093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Day4 让你想起宁愿忘记的人的歌\n这个实在想不到了，放个glitter ✩‧₊˚在这里吧\n作者是lexycat https://t.co/qYxkyMPJLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1264,
+          "like_count": 4203,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 1204
+        },
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

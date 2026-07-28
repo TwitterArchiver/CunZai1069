@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2044089127629664735",
+    "created_at": "2026-04-14T16:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044089127629664735"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044089127629664735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉比我生活糟糕的人多的是，童年比我悲惨的人多的是。我见过好多那样的人，他们才是配得到关爱的人。\n\n我有时感觉自己真的配不上抑郁症焦虑症的标签，我的药应该留给更有价值的人，我希望默默腐烂掉，不再消耗所有人的精力。\n( ⩌⤚⩌)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2044089127629664735",
+        "created_at": "2026-04-14T16:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044089127629664735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044089127629664735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉比我生活糟糕的人多的是，童年比我悲惨的人多的是。我见过好多那样的人，他们才是配得到关爱的人。\n\n我有时感觉自己真的配不上抑郁症焦虑症的标签，我的药应该留给更有价值的人，我希望默默腐烂掉，不再消耗所有人的精力。\n( ⩌⤚⩌)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "现大二计算机专业，写点小应用没什么问题…。轻抑中焦，貌似还在恶化🙃。很友善哦，喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 91,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 68,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 23,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 0,
+                "url": "https://t.co/kOm2R6CHtc"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存之秋王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 56,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/kOm2R6CHtc",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}
