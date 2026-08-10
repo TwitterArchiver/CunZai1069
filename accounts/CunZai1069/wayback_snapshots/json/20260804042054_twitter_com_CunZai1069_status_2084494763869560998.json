@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2084484334556422419",
+    "created_at": "2026-08-04T04:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084494763869560998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789517934227820544",
+          "start": 0,
+          "username": "llzxhwrt97853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084494763869560998",
+    "in_reply_to_user_id": "1789517934227820544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084491594435326287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llzxhwrt97853 中国软件杯，国三。说是入围比例很低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2084484334556422419",
+        "created_at": "2026-08-04T04:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084494763869560998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789517934227820544",
+              "start": 0,
+              "username": "llzxhwrt97853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084494763869560998",
+        "in_reply_to_user_id": "1789517934227820544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084491594435326287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llzxhwrt97853 中国软件杯，国三。说是入围比例很低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789517934227820544",
+        "conversation_id": "2084484334556422419",
+        "created_at": "2026-08-04T04:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084491594435326287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084491594435326287",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084484334556422419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 什么三等奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 1273,
+          "like_count": 4562,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T04:48:33.000Z",
+        "description": "啊吧啊吧啊吧啊吧（流口水）总是在想谈恋爱\nod 友🏳️‍⚧️,xm好看的推油,成为🏳️‍⚧️",
+        "id": "1789517934227820544",
+        "location": "柜",
+        "name": "天才莫祈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052001172828094464/KXljE6W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 590,
+          "like_count": 18904,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "llzxhwrt97853",
+        "verified": false
+      }
+    ]
+  }
+}
