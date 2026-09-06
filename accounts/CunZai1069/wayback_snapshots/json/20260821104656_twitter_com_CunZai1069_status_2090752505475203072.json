@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2090472537834897783",
+    "created_at": "2026-08-21T10:46:56.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090752505475203072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090752505475203072",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090593784199532732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 有点淀粉就够了)😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2090472537834897783",
+        "created_at": "2026-08-21T10:46:56.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090752505475203072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090752505475203072",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090593784199532732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 有点淀粉就够了)😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681902931564703744",
+        "conversation_id": "2090472537834897783",
+        "created_at": "2026-08-21T00:16:14.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090593784199532732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090593784199532732",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090472537834897783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 至少里面还有点糖分？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090752505475203072",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942368986051796992/1776093978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1241,
+          "like_count": 4576,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090714894027117045",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681902931564703744/1693285763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068274115031756800/njv_e1RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 2579,
+          "like_count": 181191,
+          "listed_count": 18,
+          "media_count": 2741,
+          "tweet_count": 57874
+        },
+        "url": "",
+        "username": "aim20371231",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
