@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2097927110228836815",
+    "created_at": "2026-09-10T11:15:01.000Z",
+    "display_text_range": [
+      11,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098007329769963966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1219176177610321920",
+          "start": 0,
+          "username": "zako_Peko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098007329769963966",
+    "in_reply_to_user_id": "1219176177610321920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097957640618025028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zako_Peko 非专业的还是推荐学python，不用去考虑底层的东西，而且有很多领域python都有很好的支持，日常写点小脚本也可以，使用也很方便。\n可以跟着b站的课来走，随便找一个就可以。最开始可能还是很迷茫，写的代码都是在黑乎乎命令行里跑，因为学的还是比较基础的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2097927110228836815",
+        "created_at": "2026-09-10T11:15:01.000Z",
+        "display_text_range": [
+          11,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098007329769963966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1219176177610321920",
+              "start": 0,
+              "username": "zako_Peko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098007329769963966",
+        "in_reply_to_user_id": "1219176177610321920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097957640618025028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zako_Peko 非专业的还是推荐学python，不用去考虑底层的东西，而且有很多领域python都有很好的支持，日常写点小脚本也可以，使用也很方便。\n可以跟着b站的课来走，随便找一个就可以。最开始可能还是很迷茫，写的代码都是在黑乎乎命令行里跑，因为学的还是比较基础的东西。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219176177610321920",
+        "conversation_id": "2097927110228836815",
+        "created_at": "2026-09-10T07:57:34.000Z",
+        "display_text_range": [
+          12,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097957640618025028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097957640618025028",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097927110228836815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 还真不懂计算机的编程呢，虽然我以前对它没啥兴趣，但现在感觉它越来越像一门特殊的生存技能了，不接触一些总怕自己会错过什么…不知道存存作为过来人有没有面向入门初学者的推荐🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098007329769963966",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942368986051796992/1776093978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 1226,
+          "like_count": 4581,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 1367
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-20T08:33:57.000Z",
+        "description": "GMT+8/VC/CG & Motion Design enthusiast/MUG(BMS)\nContact: pHydrogen★Outlook(.)com/Discord: zakopeko\n#zakoPeko_with_Graphics",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 99,
+                "tag": "zakoPeko_with_Graphics"
+              }
+            ]
+          }
+        },
+        "id": "1219176177610321920",
+        "is_identity_verified": false,
+        "location": "Puzzlebox",
+        "most_recent_tweet_id": "2097997166291845184",
+        "name": "zako_Peko",
+        "pinned_tweet_id": "2076184663153168740",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219176177610321920/1694255621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959978366695809024/liyFvMli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 95,
+          "like_count": 43278,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 4654
+        },
+        "url": "",
+        "username": "zako_Peko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

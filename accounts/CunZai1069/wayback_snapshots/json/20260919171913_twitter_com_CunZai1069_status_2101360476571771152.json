@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942368986051796992",
+    "conversation_id": "2101249835940860002",
+    "created_at": "2026-09-19T17:19:13.000Z",
+    "display_text_range": [
+      27,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101360476571771152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "Cybergbsnx2009"
+        },
+        {
+          "end": 26,
+          "id": "4313176880",
+          "start": 16,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101360476571771152",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101249835940860002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cybergbsnx2009 @fake_fuji 就目前来讲，高中是我人生最折磨的三年"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_2101249827216773120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkjlb-bUAAEcms.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2101249835940860002",
+        "created_at": "2026-09-19T17:19:13.000Z",
+        "display_text_range": [
+          27,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101360476571771152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "Cybergbsnx2009"
+            },
+            {
+              "end": 26,
+              "id": "4313176880",
+              "start": 16,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101360476571771152",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101249835940860002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cybergbsnx2009 @fake_fuji 就目前来讲，高中是我人生最折磨的三年"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101249827216773120"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2101249835940860002",
+        "created_at": "2026-09-19T09:59:34.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:59:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101249746623180990",
+          "2101249835940860002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "4313176880",
+              "start": 11,
+              "username": "fake_fuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5YBzAKwC6",
+              "end": 158,
+              "expanded_url": "https://x.com/Cybergbsnx2009/status/2101249835940860002/photo/1",
+              "media_key": "3_2101249827216773120",
+              "start": 135,
+              "url": "https://t.co/e5YBzAKwC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101249835940860002",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101249827216773120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "4313176880",
+                "start": 11,
+                "username": "fake_fuji"
+              }
+            ]
+          },
+          "text": "说到底，我并不认为星野@fake_fuji，这条帖子有什么问题，我认为高中阶段在我心中是灰暗的时间，我既不能做我喜欢的事情，也不能每天有哪怕 10 分钟属于自己的时间，我记得我高一的时候，单周只放 4 个小时，双周才能回家，后面教育改革了，才每周放一次，早 6 晚 8 是真的很难受，并且这个帖子让我看到了曾经的自己，那个曾经渴望拥有更多自由、却又无能为力的自己。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 602,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说到底，我并不认为星野@fake_fuji，这条帖子有什么问题，我认为高中阶段在我心中是灰暗的时间，我既不能做我喜欢的事情，也不能每天有哪怕 10 分钟属于自己的时间，我记得我高一的时候，单周只放 4 个小时，双周才能回家，后面教育改革了，才每周放一次，早 6 晚 8 https://t.co/e5YBzAKwC6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101360476571771152",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942368986051796992/1776093978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1233,
+          "like_count": 4618,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1384
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "Xiaomi former partner | 数码爱好者、民主社会主义/进步主义、INFP、LGBT| CN/EN/JP/DE | 高中辍学生 |  MCN:专注次元",
+        "id": "1759787246587379712",
+        "is_identity_verified": true,
+        "location": "China",
+        "most_recent_tweet_id": "2101332553076740426",
+        "name": "高坂穗奈雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759787246587379712/1788512553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101194612325208065/1i9LIw7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 1596,
+          "like_count": 6735,
+          "listed_count": 10,
+          "media_count": 1003,
+          "tweet_count": 3414
+        },
+        "url": "",
+        "username": "Cybergbsnx2009",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHIEfb"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2101260795938300160",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 629,
+          "like_count": 1909,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/46yRJHIEfb",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
