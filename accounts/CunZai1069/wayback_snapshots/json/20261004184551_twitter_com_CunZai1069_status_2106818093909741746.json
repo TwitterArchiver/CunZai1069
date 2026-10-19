@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106818088591384576"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1005931878371635201",
+          "name": "Devil May Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2106477233057726619",
+    "created_at": "2026-10-04T18:45:51.000Z",
+    "display_text_range": [
+      16,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T19:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106818093909741746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1707645713738571776",
+          "start": 0,
+          "username": "soshiki_peiyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkuREbPFmB",
+          "end": 141,
+          "expanded_url": "https://x.com/CunZai1069/status/2106818093909741746/photo/1",
+          "media_key": "3_2106818088591384576",
+          "start": 118,
+          "url": "https://t.co/AkuREbPFmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106818093909741746",
+    "in_reply_to_user_id": "1707645713738571776",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2106818088591384576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106549437569061257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soshiki_peiyou Anyway，you found my playlist at a very Chinese time in your life.\nMusic so good even a devil may cry. https://t.co/AkuREbPFmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2106818088591384576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzr46DbYAAnIVK.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106818088591384576"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1005931878371635201",
+              "name": "Devil May Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2106477233057726619",
+        "created_at": "2026-10-04T18:45:51.000Z",
+        "display_text_range": [
+          16,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106818093909741746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1707645713738571776",
+              "start": 0,
+              "username": "soshiki_peiyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkuREbPFmB",
+              "end": 141,
+              "expanded_url": "https://x.com/CunZai1069/status/2106818093909741746/photo/1",
+              "media_key": "3_2106818088591384576",
+              "start": 118,
+              "url": "https://t.co/AkuREbPFmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106818093909741746",
+        "in_reply_to_user_id": "1707645713738571776",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106818088591384576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106549437569061257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soshiki_peiyou Anyway，you found my playlist at a very Chinese time in your life.\nMusic so good even a devil may cry. https://t.co/AkuREbPFmB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707645713738571776",
+        "conversation_id": "2106477233057726619",
+        "created_at": "2026-10-04T00:58:18.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T01:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106549437569061257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106549437569061257",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106477233057726619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 南亭的钥匙"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106818093909741746",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942368986051796992/1776093978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1228,
+          "like_count": 4634,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-29T06:37:39.000Z",
+        "description": "这个人很懒，什么都没有留下。\nこの人はとても怠け者で、プロフィールを編集しようとしません。\nThis person is very lazy and can't learn a single word.",
+        "id": "1707645713738571776",
+        "is_identity_verified": false,
+        "location": "Tokyo from China Yunnan",
+        "most_recent_tweet_id": "2106762300036390962",
+        "name": "組織培養🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707645713738571776/1774540992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053455143178526720/Rag8Ts42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 67,
+          "like_count": 2355,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "soshiki_peiyou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106477190061965313"
+      ]
+    },
+    "author_id": "1942368986051796992",
+    "conversation_id": "2106477233057726619",
+    "created_at": "2026-10-03T20:11:23.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T21:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106477233057726619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/euSIjVRHs3",
+          "end": 31,
+          "expanded_url": "https://x.com/CunZai1069/status/2106477233057726619/video/1",
+          "media_key": "13_2106477190061965313",
+          "start": 8,
+          "url": "https://t.co/euSIjVRHs3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106477233057726619",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2106477190061965313"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(っ꒪ཀ꒪)っ https://t.co/euSIjVRHs3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80416,
+        "height": 720,
+        "media_key": "13_2106477190061965313",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106477190061965313/img/dk698V5bfBy2cpRz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106477190061965313/vid/avc1/480x270/RYIYEij5_exHBeYX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106477190061965313/vid/avc1/640x360/cNl24X7l3V7oSJLo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106477190061965313/vid/avc1/1280x720/bKOZ6k0_U-2qPNun.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106477190061965313/pl/SuEqnLJv2iNLAzZt.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106477190061965313"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2106477233057726619",
+        "created_at": "2026-10-03T20:11:23.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T21:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106477233057726619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euSIjVRHs3",
+              "end": 31,
+              "expanded_url": "https://x.com/CunZai1069/status/2106477233057726619/video/1",
+              "media_key": "13_2106477190061965313",
+              "start": 8,
+              "url": "https://t.co/euSIjVRHs3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106477233057726619",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106477190061965313"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(っ꒪ཀ꒪)っ https://t.co/euSIjVRHs3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106477233057726619",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942368986051796992/1776093978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1228,
+          "like_count": 4626,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1391
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
